@@ -1,0 +1,47 @@
+enabled_platforms:
+  - GENIE
+
+# 리소스 디렉토리 경로 (CSV 파일이 있는 위치)
+resource_dir: "resource"
+
+# 플랫폼별 설정
+# resource_csv: true로 설정하면 resource/{플랫폼명}/song_data.csv에서 곡 목록을 읽습니다
+platforms:
+  GENIE:
+    # resource_csv: true로 설정하면 resource/GENIE/song_data.csv에서 곡 목록 읽기
+    resource_csv: true
+    # 곡 제목을 가져올 JavaScript querySelector 선택자
+    song_name: ".info-zone .name"
+    # 아티스트명을 가져올 JavaScript querySelector 선택자
+    artist_name: "ul.info-data li:nth-child(1) span a"
+    # 앨범명을 가져올 JavaScript querySelector 선택자
+    album_name: "ul.info-data li:nth-child(2) span a"
+    # 수집할 지표 선택
+    # 지원 지표: total_plays (전체 재생수), total_listeners (전체 청취자수)
+    metrics:
+      total_plays: ".daily-chart .total div:nth-child(1) p"
+      total_listeners: ".daily-chart .total div:nth-child(2) p"
+
+# 레거시 형식 (개별 target 지정, resource_csv를 사용하지 않을 때)
+# targets:
+#   - platform: GENIE
+#     song_id: "113073874"
+#     alias: "곡1"
+#     metrics:
+#       total_plays: ".daily-chart .total div p"
+
+mode: auto  # requests | playwright | auto
+
+schedule:
+  enabled: true
+  cron: "0 * * * *"  # 매시간 0분 (Asia/Seoul, 예: 00:00, 01:00, 02:00, ... 23:00)
+
+# JSON 로그 파일 설정 (날짜_플랫폼명.jsonl 형식)
+log:
+  base_dir: "data/logs"  # 예: data/logs/2025-12-17_GENIE.jsonl
+
+http:
+  timeout_sec: 20
+  max_retries: 3
+  backoff_sec: 2
+
