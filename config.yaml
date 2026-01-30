@@ -34,7 +34,7 @@ mode: auto  # requests | playwright | auto
 
 schedule:
   enabled: true
-  cron: "0 * * * *"  # 매시간 0분 (Asia/Seoul, 예: 00:00, 01:00, 02:00, ... 23:00)
+  cron: "0 0 * * *"  # 매시간 0분 (Asia/Seoul, 예: 00:00, 01:00, 02:00, ... 23:00)
 
 # JSON 로그 파일 설정 (날짜_플랫폼명.jsonl 형식)
 log:
