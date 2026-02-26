@@ -88,6 +88,12 @@ def _read_search_data(platform: str, resource_dir: str) -> List[Dict[str, str]]:
                     "track_cd": (row_cleaned.get("track_cd") or "").strip(),
                     "isrc_cd": (row_cleaned.get("isrc_cd") or "").strip(),
                     "interest_yn": (row_cleaned.get("interest_yn") or "n").strip(),
+                    # 새로 추가된 b2b / new_date 필드
+                    "b2b_artist_cd_spotify": (row_cleaned.get("b2b_artist_cd_spotify") or "").strip(),
+                    "b2b_artist_cd_apple": (row_cleaned.get("b2b_artist_cd_apple") or "").strip(),
+                    "b2b_artist_cd_melon": (row_cleaned.get("b2b_artist_cd_melon") or "").strip(),
+                    "b2b_asset_ids_youtube": (row_cleaned.get("b2b_asset_ids_youtube") or "").strip(),
+                    "new_date": (row_cleaned.get("new_date") or "").strip(),
                 })
     except Exception as e:
         logger.error(f"[{platform}] search_data.csv 읽기 실패: {e}")
@@ -387,7 +393,7 @@ def _write_song_ids_csv(platform: str, song_data_list: List[Dict[str, str]], res
                     "artist_name": data.get("artist_name_kor", "")
                 })
 
-    # 새로운 컬럼 순서 (명세에 맞춤 - 20개 필드)
+    # 새로운 컬럼 순서 (명세에 맞춤 - 25개 필드)
     fieldnames = [
         "platform_seq",
         "platform_name",
@@ -408,7 +414,13 @@ def _write_song_ids_csv(platform: str, song_data_list: List[Dict[str, str]], res
         "isrc_cd",
         "interest_yn",
         "platform_artist_ids",
-        "platform_song_ids"
+        "platform_song_ids",
+        # 새로 추가된 b2b / new_date 필드
+        "b2b_artist_cd_spotify",
+        "b2b_artist_cd_apple",
+        "b2b_artist_cd_melon",
+        "b2b_asset_ids_youtube",
+        "new_date",
     ]
 
     with open(csv_path, "w", encoding="utf-8", newline="") as f:
@@ -443,7 +455,13 @@ def _write_song_ids_csv(platform: str, song_data_list: List[Dict[str, str]], res
                 "isrc_cd": data.get("isrc_cd", ""),
                 "interest_yn": data.get("interest_yn", "n"),
                 "platform_artist_ids": platform_artist_ids_json,
-                "platform_song_ids": platform_song_ids_json
+                "platform_song_ids": platform_song_ids_json,
+                # 새로 추가된 b2b / new_date 필드
+                "b2b_artist_cd_spotify": data.get("b2b_artist_cd_spotify", ""),
+                "b2b_artist_cd_apple": data.get("b2b_artist_cd_apple", ""),
+                "b2b_artist_cd_melon": data.get("b2b_artist_cd_melon", ""),
+                "b2b_asset_ids_youtube": data.get("b2b_asset_ids_youtube", ""),
+                "new_date": data.get("new_date", ""),
             })
 
     logger.info(f"[{platform}] song_data.csv에 {len(unique_data)}개의 곡 정보를 기록했습니다: {csv_path}")
@@ -607,7 +625,7 @@ def generate_song_ids(config_path: str) -> None:
                 
                 # song_id를 찾은 경우에만 리스트에 추가
                 if song_id:
-                    # 모든 필드를 포함하여 추가 (새로운 명세 20개 필드)
+                    # 모든 필드를 포함하여 추가 (새로운 명세 25개 필드)
                     song_data_list.append({
                         "platform_song_id": song_id,  # 플랫폼별 song_id
                         "platform_seq": row.get("platform_seq", ""),
@@ -628,6 +646,12 @@ def generate_song_ids(config_path: str) -> None:
                         "track_cd": row.get("track_cd", ""),
                         "isrc_cd": row.get("isrc_cd", ""),
                         "interest_yn": row.get("interest_yn", "n"),
+                        # 새로 추가된 b2b / new_date 필드
+                        "b2b_artist_cd_spotify": row.get("b2b_artist_cd_spotify", ""),
+                        "b2b_artist_cd_apple": row.get("b2b_artist_cd_apple", ""),
+                        "b2b_artist_cd_melon": row.get("b2b_artist_cd_melon", ""),
+                        "b2b_asset_ids_youtube": row.get("b2b_asset_ids_youtube", ""),
+                        "new_date": row.get("new_date", ""),
                     })
                 else:
                     # 실패한 곡 정보 저장

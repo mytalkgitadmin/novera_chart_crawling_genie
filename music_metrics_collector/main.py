@@ -100,6 +100,12 @@ def load_songs_from_csv(platform: str, resource_dir: str = "resource") -> List[D
                         'interest_yn': row_cleaned.get('interest_yn', 'n').strip(),
                         'platform_artist_ids': row_cleaned.get('platform_artist_ids', '').strip(),
                         'platform_song_ids': row_cleaned.get('platform_song_ids', '{}').strip(),
+                        # 새로 추가된 b2b / new_date 필드
+                        'b2b_artist_cd_spotify': row_cleaned.get('b2b_artist_cd_spotify', '').strip(),
+                        'b2b_artist_cd_apple': row_cleaned.get('b2b_artist_cd_apple', '').strip(),
+                        'b2b_artist_cd_melon': row_cleaned.get('b2b_artist_cd_melon', '').strip(),
+                        'b2b_asset_ids_youtube': row_cleaned.get('b2b_asset_ids_youtube', '').strip(),
+                        'new_date': row_cleaned.get('new_date', '').strip(),
                         
                         # 호환성 필드 (기존 코드 호환용)
                         'track_code': track_cd,
@@ -323,6 +329,12 @@ def collect_metrics(config: dict) -> Dict[str, int]:
                     'interest_yn': song_data.get('interest_yn', 'n'),
                     'platform_artist_ids': song_data.get('platform_artist_ids', ''),
                     'platform_song_ids': song_id,  # JSON 문자열이 아닌 song_id 값만
+                    # 새로 추가된 b2b / new_date 필드
+                    'b2b_artist_cd_spotify': song_data.get('b2b_artist_cd_spotify', ''),
+                    'b2b_artist_cd_apple': song_data.get('b2b_artist_cd_apple', ''),
+                    'b2b_artist_cd_melon': song_data.get('b2b_artist_cd_melon', ''),
+                    'b2b_asset_ids_youtube': song_data.get('b2b_asset_ids_youtube', ''),
+                    'new_date': song_data.get('new_date', ''),
                     
                     # 수집 결과 필드
                     'req_date': today,  # 데이터 수집일
@@ -354,7 +366,15 @@ def collect_metrics(config: dict) -> Dict[str, int]:
                     'etc1': None,
                 }
                 
+                # 기존 저장
                 with open(log_file_path, 'a', encoding='utf-8') as f:
+                    f.write(json.dumps(log_entry, ensure_ascii=False) + '\n')
+
+                # 추가 저장 (crawler-share)
+                share_dir = Path(f"~/project/crawler-share/genie/date={today.replace('-', '')}").expanduser()
+                share_dir.mkdir(parents=True, exist_ok=True)
+                share_file_path = share_dir / f"{today}_{platform}.jsonl"
+                with open(share_file_path, 'a', encoding='utf-8') as f:
                     f.write(json.dumps(log_entry, ensure_ascii=False) + '\n')
                 
                 stats['success'] += 1
@@ -387,6 +407,12 @@ def collect_metrics(config: dict) -> Dict[str, int]:
                     'interest_yn': song_data.get('interest_yn', 'n'),
                     'platform_artist_ids': song_data.get('platform_artist_ids', ''),
                     'platform_song_ids': song_id,  # JSON 문자열이 아닌 song_id 값만
+                    # 새로 추가된 b2b / new_date 필드
+                    'b2b_artist_cd_spotify': song_data.get('b2b_artist_cd_spotify', ''),
+                    'b2b_artist_cd_apple': song_data.get('b2b_artist_cd_apple', ''),
+                    'b2b_artist_cd_melon': song_data.get('b2b_artist_cd_melon', ''),
+                    'b2b_asset_ids_youtube': song_data.get('b2b_asset_ids_youtube', ''),
+                    'new_date': song_data.get('new_date', ''),
                     
                     # 수집 결과 필드 (모두 null)
                     'req_date': today,
@@ -411,7 +437,15 @@ def collect_metrics(config: dict) -> Dict[str, int]:
                     'error': str(e)
                 }
                 
+                # 기존 저장
                 with open(log_file_path, 'a', encoding='utf-8') as f:
+                    f.write(json.dumps(log_entry, ensure_ascii=False) + '\n')
+
+                # 추가 저장 (crawler-share)
+                share_dir = Path(f"~/project/crawler-share/genie/date={today.replace('-', '')}").expanduser()
+                share_dir.mkdir(parents=True, exist_ok=True)
+                share_file_path = share_dir / f"{today}_{platform}.jsonl"
+                with open(share_file_path, 'a', encoding='utf-8') as f:
                     f.write(json.dumps(log_entry, ensure_ascii=False) + '\n')
                 
                 stats['failed'] += 1

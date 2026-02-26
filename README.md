@@ -198,13 +198,14 @@ schedule:
 
 ```bash
 # nohup으로 백그라운드 실행
-nohup python -m music_metrics_collector.main run-scheduler --config config.yaml > scheduler.log 2>&1 &
+nohup ./venv/bin/python -m music_metrics_collector.main run-scheduler --config config.yaml > scheduler.log 2>&1 &
 
 # 로그 확인
 tail -f scheduler.log
 
 # 프로세스 종료
 pkill -f "run-scheduler"
+ps aux | grep run-scheduler
 ```
 
 ---

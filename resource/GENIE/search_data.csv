@@ -1,213 +1,214 @@
-﻿platform_seq,platform_name,song_type_text,album_cd,album_name_kor,album_name_eng,song_cd,song_name_kor,song_name_eng,song_release_date,artist_cd,artist_name_kor,artist_name_eng,mem_cd,mem_name,track_cd,isrc_cd,interest_yn
-80,지니뮤직,대중음악,A1000001,Fun'ch,Fun'ch,A1000001T005,못된 여자,Bad Girl,39603,S123981,원투 (One Two),One Two,L20220049,바론 엔터,A1000001T005,QZEKE1873038,Y
-80,지니뮤직,대중음악,A1000002,Big 5,Big 5,A1000002T002,슬픈 인연,Sad Fate,34335,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000002T002,KRA341436137,Y
-80,지니뮤직,대중음악,A1000005,015B The Best Collection,015B The Best Collection,A1000005T012,이젠 안녕,Good bye for now,35125,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000005T012,KRA341436162,Y
-80,지니뮤직,대중음악,A1000022,공일오비,015B,A1000022T001,텅 빈 거리에서,In an empty street,32874,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000022T001,KRA340902406,Y
-80,지니뮤직,대중음악,A1000026,귀향,Homecoming,A1000026T001,사랑한다는 말,"The words "" I love you""",37190,S119571,김동률,Kim Dong Ryul,L20220050,다날엔터_IP 포이보스,A1000026T001,KRA341315221,Y
-80,지니뮤직,대중음악,A1000026,귀향,Homecoming,A1000026T002,다시 사랑한다 말할까,"I say ""I love you"" again",37190,S119571,김동률,Kim Dong Ryul,L20220050,다날엔터_IP 포이보스,A1000026T002,KRA341315222,Y
-80,지니뮤직,대중음악,A1000045,놀이,Game,A1000045T003,난 여자가 있는데,I have a lover,37049,S120427,박진영,J.Y. Park,L20220050,다날엔터_IP 포이보스,A1000045T003,QZEKE1870237,Y
-80,지니뮤직,대중음악,A1000065,못된 남자,,A1000065T001,못된 남자,,39352,S100153,엠투엠,M To M,L20252410,포이보스(압류),A1000065T001,KRA341671157,Y
-80,지니뮤직,대중음악,A1000079,사랑의 배터리,Love's Battery,A1000079T001,사랑의 배터리,Love's Battery,39983,S119570,홍진영,Hong Jin-young,L20220427,다날엔터_IP 인접보유,A1000079T001,KRA340904903,Y
-80,지니뮤직,대중음악,A1000082,성인식,Coming of age ceremony,A1000082T003,성인식,Coming of age ceremony,36733,S100089,박지윤,박지윤,L20220050,다날엔터_IP 포이보스,A1000082T003,QZEKE1870193,Y
-80,지니뮤직,대중음악,A1000082,성인식,Coming of age ceremony,A1000082T005,환상,Illusion,36733,S100089,박지윤,박지윤,L20220050,다날엔터_IP 포이보스,A1000082T005,QZEKE1870195,Y
-80,지니뮤직,대중음악,A1000083,슬픈 표정 하지 말아요,Don`t look so sad,A1000083T001,슬픈 표정 하지 말아요,Don`t look so sad,32994,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000083T001,QZEKE1869961,Y
-80,지니뮤직,대중음악,A1000087,쌍둥이 파워,,A1000087T003,학교를 안갔어,,36543,S100066,량현량하,량현량하,L20220050,다날엔터_IP 포이보스,A1000087T003,QZEKE1870174,Y
-80,지니뮤직,대중음악,A1000094,The First Mind - 여인의 향기,The First Mind - Scent of a Woman,A1000094T001,여인의 향기,Scent of a Woman,38772,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000094T001,KRA341321102,Y
-80,지니뮤직,대중음악,A1000094,The First Mind - 여인의 향기,The First Mind - Scent of a Woman,A1000094T002,구두,shoes,38772,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000094T002,KRA341321103,Y
-80,지니뮤직,대중음악,A1000096,열여섯번째 이야기,Choi Baek Ho`s Sixteenth Story,A1000096T002,낭만에 대하여,Abount Romantic,34639,S120134,최백호,최백호,L20220050,다날엔터_IP 포이보스,A1000096T002,QZEKE1870031,Y
-80,지니뮤직,대중음악,A1000102,우(愚),Woo,A1000102T001,환생,Rebirth,35156,S121308,윤종신,Yoon Jong Shin,L20220050,다날엔터_IP 포이보스,A1000102T001,KRA341326157,Y
-80,지니뮤직,대중음악,A1000156,M TO M (ANTIQUE VOICE),,A1000156T001,세글자,,38597,S124028,M TO M,M TO M,L20252410,포이보스(압류),A1000156T001,KRA341671506,Y
-80,지니뮤직,대중음악,A1000161,BAD LOVE,BAD LOVE,A1000161T004,몹쓸 사랑,몹쓸 사랑,39492,S100043,나오미,나오미,L20220084,클라이믹스,A1000161T004,KRA341212621,Y
-80,지니뮤직,대중음악,A1000178,Carnival (이적+김동률 프로젝트 앨범),Carnival (Lee Juck+Kim Dong Ryul Project Album),A1000178T003,그땐 그랬지,At that time,35554,S119572,카니발,Carnival,L20220050,다날엔터_IP 포이보스,A1000178T003,KRA340901845,Y
-80,지니뮤직,대중음악,A1000229,Exhibition,Exhibition,A1000229T001,기억의 습작,Etude of Memory,34455,S119574,전람회,Exhibition,L20220050,다날엔터_IP 포이보스,A1000229T001,KRA340902456,Y
-80,지니뮤직,대중음악,A1000230,Exhibition 2,Exhibition 2,A1000230T008,취중진담,Druken Truth,35156,S119574,전람회,Exhibition,L20220050,다날엔터_IP 포이보스,A1000230T008,KRA340902472,Y
-80,지니뮤직,대중음악,A1000305,Lovely Sweet Heart,Lovely Sweet Heart,A1000305T001,사랑의 인사,사랑의 인사,39227,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000305T001,KRA341321101,Y
-80,지니뮤직,대중음악,A1000305,Lovely Sweet Heart,Lovely Sweet Heart,A1000305T002,결혼할까요,결혼할까요,39227,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000305T002,KRA341321100,Y
-80,지니뮤직,대중음악,A1000305,Lovely Sweet Heart,Lovely Sweet Heart,A1000305T005,어떻게 널 잊겠니,어떻게 널 잊겠니,39227,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000305T005,KRA341321097,Y
-80,지니뮤직,대중음악,A1000340,Myself,Myself,A1000340T003,나에게 쓰는 편지,Letter to myself,33317,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000340T003,QZEKE1869985,Y
-80,지니뮤직,대중음악,A1000340,Myself,Myself,A1000340T005,그대에게,To you,33317,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000340T005,QZEKE1869987,Y
-80,지니뮤직,대중음악,A1000340,Myself,Myself,A1000340T006,내 마음 깊은 곳의 너,You in my deep heart,33317,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000340T006,QZEKE1869988,Y
-80,지니뮤직,대중음악,A1000362,2008 One Two (Digital Single),2008 One Two - Bad Girl,A1000362T001,못된 여자,2008 One Two - Bad Girl,39566,S123981,원투 (One Two),One Two,L20220049,바론 엔터,A1000362T001,QZEKE1873023,Y
-80,지니뮤직,대중음악,A1000411,Second Episode,,A1000411T002,이젠 안녕,,33359,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000411T002,KRA341436125,Y
-80,지니뮤직,대중음악,A1000430,So Fresh,So Fresh,A1000430T001,So Fresh,So Fresh,39260,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000430T001,QZEKE1872915,Y
-80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T001,감사,Thanks,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T001,KRA341315187,Y
-80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T002,기억의 습작,Etude Of Memoirs,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T002,KRA341315188,Y
-80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T009,취중진담,My Tipsy Confession,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T009,KRA341315195,Y
-80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T019,다시 사랑한다 말할까,Should I Say It One More Time,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T019,KRA341315205,Y
-80,지니뮤직,대중음악,A1000480,The 3rd Masterpiece,The 3rd Masterpiece,A1000480T001,내사람,Partner for Life,38818,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000480T001,KRA341320880,Y
-80,지니뮤직,대중음악,A1000480,The 3rd Masterpiece,The 3rd Masterpiece,A1000480T002,느림보,느림보,38818,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000480T002,KRA341320881,Y
-80,지니뮤직,대중음악,A1000480,The 3rd Masterpiece,The 3rd Masterpiece,A1000480T004,사랑했어요,사랑했어요,38818,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000480T004,KRA341320883,Y
-80,지니뮤직,대중음악,A1000484,The Colorful Voices,The Colorful Voices,A1000484T001,새까맣게,새까맣게,39427,S124113,엠투엠,MTOM,L20252410,포이보스(압류),A1000484T001,KRA341212603,Y
-80,지니뮤직,대중음악,A1000496,The Natural,The Natural,A1000496T001,오래전 그날,The day long ago,33970,S121308,윤종신,Yoon Jong Shin,L20220050,다날엔터_IP 포이보스,A1000496T001,KRA341326137,Y
-80,지니뮤직,대중음악,A1000503,The Sentimental Chord,The Sentimental Chord,A1000503T001,아리랑,아리랑,39178,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000503T001,KRA341320864,Y
-80,지니뮤직,대중음악,A1000503,The Sentimental Chord,The Sentimental Chord,A1000503T003,한여름날의 꿈,한여름날의 꿈,39178,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000503T003,KRA341320866,Y
-80,지니뮤직,대중음악,A1000503,The Sentimental Chord,The Sentimental Chord,A1000503T011,STAY,STAY,39178,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000503T011,KRA341320874,Y
-80,지니뮤직,대중음악,A1000504,The Shadow Of Forgetfulness,The Shadow Of Forgetfulness,A1000504T006,기적,Miracle,36130,S119571,김동률,Kim Dong Ryul,L20220050,다날엔터_IP 포이보스,A1000504T006,KRA341315216,Y
-80,지니뮤직,대중음악,A1000506,The Third Wave,The Third Wave,A1000506T001,아주 오래된 연인들,Very longtime Lovers,33817,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000506T001,KRA340902416,Y
-80,지니뮤직,대중음악,A1000507,The Way I Am,The Way I Am,A1000507T002,아이스크림,아이스크림,38985,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000507T002,QZEKE1872221,Y
-80,지니뮤직,대중음악,A1000507,The Way I Am,The Way I Am,A1000507T005,기도 (Feat. 박효신),기도 (Feat. 박효신),38985,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000507T005,QZEKE1872224,Y
-80,지니뮤직,대중음악,A1000508,The Way I Am (Repack),The Way I Am (Repack),A1000508T001,너에게 쓰는 편지 Part.2,너에게 쓰는 편지 Part.2,39064,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000508T001,KRA341671957,Y
-80,지니뮤직,대중음악,A1000998,여보세요,여보세요,A1000998T002,She,She,40360,S101245,자미 소울,Jami Soul,L20220172,우드사이드,A1000998T002,KRA341209987,Y
-80,지니뮤직,대중음악,A1001373,CONTI UKISS,CONTI UKISS,A1001373T002,만만하니,Am I too easy?,40817,S121576,유키스,U-KISS,L20220441,NH미디어,A1001373T002,KRA341201525,Y
-80,지니뮤직,대중음악,A1002151,기억속의 멜로디,Melody in Memory,A1002151T001,감사,Thanks,41157,S119571,김동률,Kim Dong Ryul,L20252425,다날엔터_IP 포이보스(기타),A1002151T001,KRA341210536,Y
-80,지니뮤직,대중음악,A1002151,기억속의 멜로디,Melody in Memory,A1002151T007,다시 사랑한다 말할까,"I say ""I love you"" again",41157,S119571,김동률,Kim Dong Ryul,L20252425,다날엔터_IP 포이보스(기타),A1002151T007,KRA341210542,Y
-80,지니뮤직,대중음악,A1002826,귀요미송 (ReTitle),Gwiyomi song (ReTitle),A1002826T001,귀요미송,Gwiyomi song,41323,S154851,하리,하리,L20220274,Y Tree Entertainment,A1002826T001,KRA341223119,Y
-80,지니뮤직,대중음악,A1003243,Love in Memory,Love in Memory,A1003243T001,취중진담,Druken Truth,41442,S119571,김동률,Kim Dong Ryul,L20252425,다날엔터_IP 포이보스(기타),A1003243T001,KRA341309413,Y
-80,지니뮤직,대중음악,A1003532,Last Romanticist,Last Romanticist,A1003532T003,후회는 없어,There is no regret,41548,S100049,노블레스,Noblesse,L20220466,어나더 무드,A1003532T003,KRA341334302,Y
-80,지니뮤직,대중음악,A1003583,See You Again,See You Again,A1003583T005,여인의 향기,Scent of a Woman,44287,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1003583T005,KRA341321102,Y
-80,지니뮤직,대중음악,A1003583,See You Again,See You Again,A1003583T007,사랑의 인사,사랑의 인사,44287,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1003583T007,KRA341321101,Y
-80,지니뮤직,대중음악,A1004038,Gwiyomi song,Gwiyomi song,A1004038T001,Gwiyomi song,Gwiyomi song,41684,S154851,하리,하리,L20220274,Y Tree Entertainment,A1004038T001,KRA341404898,Y
-80,지니뮤직,대중음악,A1004893,우리 얘기 좀 해,Can we just talk?,A1004893T001,우리 얘기 좀 해,Can we just talk?,41831,S121630,릴로,Lillo,L20220326,뮤직플러그엔터테인먼트,A1004893T001,KRA341432600,Y
-80,지니뮤직,어린이,A1008641,어린이 자장가 어린이집에서 틀어주는 EQ발달 기능성자장가 베스트 모음집,,A1008641T001,모차르트 자장가,모차르트 자장가,42314,S118433,동요자장가,Musical Lullabies For Kids,L20220666,플라이트래빗,A1008641T001,KRA341552554,Y
-80,지니뮤직,어린이,A1008641,어린이 자장가 어린이집에서 틀어주는 EQ발달 기능성자장가 베스트 모음집,,A1008641T003,브람스 자장가,브람스 자장가,42314,S118433,동요자장가,Musical Lullabies For Kids,L20220666,플라이트래빗,A1008641T003,KRA341551589,Y
-80,지니뮤직,어린이,A1009098,"오르골 연주곡 어린이집 감성 자장가 음악 베스트(태교,숙면을 위한 잔잔한 클래식 동요 명곡)",Sentimental Music Boxes Nursery Lullaby Music Best (A classic children's song for prenatal education and deep sleep),A1009098T001,브람스 자장가(오르골),Brahms : Lullaby,42375,S118428,오르골 엔젤,Orgel Angel,L20220666,플라이트래빗,A1009098T001,KRA341600606,Y
-80,지니뮤직,어린이,A1009250,"어린이 인기 동요 감성 음악 연주곡 베스트(태교,어린이집 자장가,유아 클래식 명곡 모음)",Popular Sentimental Children's Song Best,A1009250T001,섬집아기(오르골),A Cottage On An Isle (Orgel),42394,S118428,오르골 엔젤,Orgel Angel,L20220666,플라이트래빗,A1009250T001,QZEKE1854534,Y
-80,지니뮤직,대중음악,A1010449,자전거 탄 풍경,A bicycle Ride,A1010449T002,"너에게 난, 나에게 넌","Me to You, You to Me",42552,S119568,자전거 탄 풍경,A bicycle Ride,L20220810,자전거 탄 풍경,A1010449T002,QZEKE1870248,Y
-80,지니뮤직,대중음악,A1010656,삐에로는 우릴 보고 웃지,Piero laughs at us,A1010656T003,삐에로는 우릴 보고 웃지,Piero laughs at us,42583,S119451,김완선,Kim Wan-sun,L20220755,케이더블유썬플라워엔터테인먼트,A1010656T003,KRA341207670,Y
-80,지니뮤직,대중음악,A1010709,Boy's Story in the City,Boy's Story in the City,A1010709T004,For My Love,For My Love,42583,S106939,엠스트리트(M.Street),엠스트리트(M.Street),L20220744,케미컬레코즈,A1010709T004,QZEKE1870422,Y
-80,지니뮤직,대중음악,A1011029,Baby Vox Ⅱ,,A1011029T001,야야야,,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011029T001,KRD451801962,Y
-80,지니뮤직,대중음악,A1011030,Come Come Come Baby,,A1011030T002,Get Up,,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011030T002,KRA340911447,Y
-80,지니뮤직,대중음악,A1011030,Come Come Come Baby,,A1011030T004,Killer,,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011030T004,KRA340911449,Y
-80,지니뮤직,대중음악,A1011031,Devotion,,A1011031T013,우연 (Deep club Re-mix),,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011031T013,KRD451801982,Y
-80,지니뮤직,대중음악,A1011223,자장가,Lullaby,A1011223T001,브람스 자장가,Brahms Lullaby,42648,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1011223T001,QZEKE1853660,Y
-80,지니뮤직,어린이,A1011351,"숙면을 위한 잔잔한 감성 피아노 연주곡 베스트(태교,명상 음악,불면증,클래식 추천곡 모음)",Mild Emotional Piano Performance for deep sleep,A1011351T001,브람스 자장가 (Rain Ver.),Brahms : Lullaby (Rain Ver.),42663,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1011351T001,QZEKE1853356,Y
-80,지니뮤직,대중음악,A1012045,나이트 댄스 1,,A1012045T007,편지,,42736,S100001,Various Artists,Various Artists,L20220888,정호뮤직,A1012045T007,QZEKE1871038,Y
-80,지니뮤직,대중음악,A1012741,The Original,The Original,A1012741T013,이젠 잊기로 해요,Let's forget it,42842,S119451,김완선,Kim Wan-sun,L20220755,케이더블유썬플라워엔터테인먼트,A1012741T013,KRA341749722,Y
-80,지니뮤직,대중음악,A1012741,The Original,The Original,A1012741T017,기분 좋은 날,It's a good day,42842,S119451,김완선,Kim Wan-sun,L20220755,케이더블유썬플라워엔터테인먼트,A1012741T017,KRA341749726,Y
-80,지니뮤직,어린이,A1012829,"어린이 자장가 감성 오르골 연주곡 베스트(태교 음악,동요,클래식 명곡 모음)",The Best Emotional orgel collection - Children lullaby,A1012829T001,자장가(오르골),Lullaby (Orgel),42863,S107968,오르골,오르골,L20220666,플라이트래빗,A1012829T001,QZEKE1851730,Y
-80,지니뮤직,OST,A1012871,군주 - 가면의 주인 OST Part.2,The Emperor : Owner of the Mask OST Part.2,A1012871T001,처음부터 너와 나,From the beginning You and I,42872,S118271,볼빨간사춘기,BOL4,L20241743,다날엔터_IP 군주 외,A1012871T001,KRA341750456,Y
-80,지니뮤직,어린이,A1013032,WOW 인기동요,,A1013032T008,모두 제자리,,42900,S107216,동요,동요,L20220496,로드뮤직,A1013032T008,QZNCB2172286,Y
-80,지니뮤직,어린이,A1013146,"잠 잘때 듣는 감성 피아노 연주곡 베스트(힐링,태교 음악,뉴에이지,클래식,동요 명곡 모음)",Best Piano songs For Deep Sleep,A1013146T020,브람스 자장가 (피아노와 오르골),Brhams Lullaby (Piano and Music Boxes),42922,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1013146T020,QZEKE1850967,Y
-80,지니뮤직,대중음악,A1013201,Dream Again,Dream Again,A1013201T002,男子의 人生 (남자의 인생),Life of a man,42933,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013201T002,KRA341781528,Y
-80,지니뮤직,어린이,A1013376,"숙면을 위한 감성 피아노 연주곡 베스트 (명상 음악,불면증 테라피,태교,자연 효과음,클래식 명곡 모음)",Best Emotional Piano Performance for deep sleep,A1013376T001,브람스 자장가 (피아노와 오르골) (Rain Ver.),Brahms : Lullaby (Piano and Orgel) (Rain Ver.),42968,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1013376T001,KRA341783029,Y
-80,지니뮤직,POP,A1013619,풍뎅이 풍뎅이 Go! 솜사탕,Pungdeng-i Pungdeng-i Go! Cotton candy,A1013619T002,솜사탕,cotton candy,43009,S108983,풍뎅이,PDE,L20220946,김도윤,A1013619T002,KRA341403718,Y
-80,지니뮤직,대중음악,A1013729,나훈아 - 40주년 기념 특별 기획음반 (최신 골든 히트곡 모음집),Na Hoon-A- 40th Anniverary Special Project Album (Latest collection of golden hits),A1013729T001,홍시,Hongsi,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013729T001,KRZ291801251,Y
-80,지니뮤직,대중음악,A1013729,나훈아 - 40주년 기념 특별 기획음반 (최신 골든 히트곡 모음집),Na Hoon-A- 40th Anniverary Special Project Album (Latest collection of golden hits),A1013729T004,내 삶을 눈물로 채워도,Even if I fill my life with tears,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013729T004,KRZ291801254,Y
-80,지니뮤직,대중음악,A1013729,나훈아 - 40주년 기념 특별 기획음반 (최신 골든 히트곡 모음집),Na Hoon-A- 40th Anniverary Special Project Album (Latest collection of golden hits),A1013729T005,공,Empty,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013729T005,KRZ291801255,Y
-80,지니뮤직,대중음악,A1013731,벗 (40주년 기념앨범),Friend (40th Anniverary Album),A1013731T010,사모,Longing,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013731T010,KRZ291801275,Y
-80,지니뮤직,대중음악,A1013731,벗 (40주년 기념앨범),Friend (40th Anniverary Album),A1013731T013,고장난 벽시계,Broken Wall Clock,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013731T013,KRZ291801278,Y
-80,지니뮤직,대중음악,A1014083,New Freestyle (40주년 기념앨범),New Freestyle (40th anniversary Album),A1014083T001,사내,Man,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1014083T001,KRZ291801323,Y
-80,지니뮤직,대중음악,A1014084,빅히트 40곡 (나훈아 전곡 모음집),Big Hit 40 Song (Na Hoon-A`s All Music Collection),A1014084T029,영영,Forever,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1014084T029,KRZ291801360,Y
-80,지니뮤직,OST,A1015723,사의찬미 OST Part.1,The Hymn of Death OST Part. 1,A1015723T001,가슴만 알죠,Only my heart knows,43431,S118353,소향,Sohyang,L20241743,다날엔터_IP 군주 외,A1015723T001,KRZ291832880,Y
-80,지니뮤직,대중음악,A1016461,벗2,Friend2,A1016461T002,무심세월,Indifferent years,43588,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1016461T002,QZEKE1864209,Y
-80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T001,곰세마리,Three Bears,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T001,QZEKE1864642,Y
-80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T002,멋쟁이 토마토,Dandy Tomato,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T002,QZEKE1864643,Y
-80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T003,악어떼,Crocodiles,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T003,QZEKE1864644,Y
-80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T005,그대로 멈춰라,Just Stop,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T005,QZEKE1864646,Y
-80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T009,둥글게 둥글게,Roundly Roundly,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T009,QZEKE1864650,Y
-80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T088,모두 제자리,All in place,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T088,QZEKE1864729,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T001,호키포키 (율동동요),Hoki Poki (Rhythm Children`s Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T001,QZEKE1865394,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T002,악어떼 (유치원 인기동요),Crocodiles (Kindergarten Popular Kids Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T002,QZEKE1865395,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T003,통통통통 (통통통통 털보영감님),Tong Tong Tong Tong (Tongtongtongtong Hairy Old Man),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T003,QZEKE1865396,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T005,작은 동물원 (삐약삐약 병아리),Small Zoo (PPIYAK PPIYAK Chick),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T005,QZEKE1865398,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T007,비행기,Airplane,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T007,QZEKE1865400,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T008,멋쟁이 토마토 (인기 율동동요),Dandy Tomato,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T008,QZEKE1865401,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T009,곰세마리 (인기 율동동요),Three Bears,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T009,QZEKE1865402,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T013,산토끼,Hare,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T013,QZEKE1865406,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T014,머리 어깨 무릎 발 (인기 율동동요),"Head, Shoulder, Knee, Foot (Popular Rhythm Children`s Song)",43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T014,QZEKE1865407,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T015,그대로 멈춰라 (놀이동요),Just Stop It (Play Children`s Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T015,QZEKE1865408,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T016,거미가 줄을 타고 올라갑니다 (거미),Itchy Bitchy Spider (Spider),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T016,QZEKE1865409,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T025,동물농장 (닭장 속에는 암탉이),Animal Farm ( A hen is in a henhouse),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T025,QZEKE1865418,Y
-80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T118,섬집아기 (자장가 동요),A Cottage On An Isle (Lullaby children`s Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T118,QZEKE1877160,Y
-80,지니뮤직,OST,A1016825,프로듀사 OST,프로듀사 OST,A1016825T001,사랑의 시작은 고백에서부터,사랑의 시작은 고백에서부터,43678,S123109,김범수,Kim Bumsoo,L20221060,주식회사 로이,A1016825T001,QZEKE1878644,Y
-80,지니뮤직,대중음악,A1017045,Chuu,,A1017045T001,Heart Attack (츄),,43709,S135056,츄 (이달의 소녀),Chuu,L20221456,주식회사 엠티엠홀딩스,A1017045T001,QZEKE1914225,Y
-80,지니뮤직,대중음악,A1017048,beauty&thebeat,beauty&thebeat,A1017048T002,love4eva (feat. Grimes),love4eva (feat. Grimes),43709,S119474,이달의 소녀 yyxy,이달의 소녀 yyxy,L20221436,주식회사 디스튜디오,A1017048T002,QZEKE1914232,Y
-80,지니뮤직,대중음악,A1017049,[+ +],[+ +],A1017049T002,HI High,HI High,43709,S119140,이달의 소녀,LOOΠΔ,L20221436,주식회사 디스튜디오,A1017049T002,QZEKE1914237,Y
-80,지니뮤직,대중음악,A1017050,Max & Match,Max & Match,A1017050T004,Girl Front,Girl Front,43709,S119473,이달의 소녀 오드아이써클,LOOΠΔ / ODD EYE CIRCLE,L20221436,주식회사 디스튜디오,A1017050T004,QZEKE1914217,Y
-80,지니뮤직,대중음악,A1017381,un2verse,un2verse,A1017381T001,Gucci,Gucci,43770,S105918,제시,Jessi,L20220744,케미컬레코즈,A1017381T001,QZEKE1914752,Y
-80,지니뮤직,OST,A1017389,딴따라OST Part.5,,A1017389T001,사진찍어 보내줘,,43770,S110002,개코,개코,L20220744,케미컬레코즈,A1017389T001,KRA381600909,Y
-80,지니뮤직,대중음악,A1017861,혜성,,A1017861T001,혜성,,43862,S135590,윤하 (Younha/ユンナ),윤하 (Younha/ユンナ),L20220744,케미컬레코즈,A1017861T001,KRB471600101,Y
-80,지니뮤직,대중음악,A1018214,사랑하기 전에는,before you love,A1018214T001,사랑하기 전에는,before you love,43913,S114745,유해준,Yoo Hae Joon,L20220673,청엔터테인먼트,A1018214T001,QZEKE1932613,Y
-80,지니뮤직,대중음악,A1018680,CODE#01 나쁜여자,,A1018680T002,나쁜여자,,44044,S110352,레이디스 코드 (LADIES` CODE),레이디스 코드 (LADIES` CODE),L20221456,주식회사 엠티엠홀딩스,A1018680T002,KRA491300139,Y
-80,지니뮤직,대중음악,A1018681,CODE#02 PRETTY PRETTY,,A1018681T002,예뻐 예뻐,,44044,S110352,레이디스 코드 (LADIES` CODE),레이디스 코드 (LADIES` CODE),L20221456,주식회사 엠티엠홀딩스,A1018681T002,KRA491301046,Y
-80,지니뮤직,대중음악,A1018681,CODE#02 PRETTY PRETTY,,A1018681T004,I`m Fine Thank You,,44044,S110352,레이디스 코드 (LADIES` CODE),레이디스 코드 (LADIES` CODE),L20221456,주식회사 엠티엠홀딩스,A1018681T004,KRA491301048,Y
-80,지니뮤직,대중음악,A1018917,아홉 이야기,아홉 이야기,A1018917T003,테스형!,테스형!,44063,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1018917T003,QZEKE2003944,Y
-80,지니뮤직,대중음악,A1019038,[#],,A1019038T002,So What,,44075,S119140,이달의 소녀,LOOΠΔ,L20221172,다날엔터_IP 이달소2,A1019038T002,KRA382000125,Y
-80,지니뮤직,대중음악,A1019039,[X X],,A1019039T002,Butterfly,Butterfly,44075,S119140,이달의 소녀,LOOΠΔ,L20221172,다날엔터_IP 이달소2,A1019039T002,KRA381900458,Y
-80,지니뮤직,대중음악,A1019981,이별행동,Break up,A1019981T001,이별행동,Break up,44256,S121486,이우,LEEWOO,L20221456,주식회사 엠티엠홀딩스,A1019981T001,KRA381904422,Y
-80,지니뮤직,대중음악,A1020150,Funky Town - 우리 사랑했잖아,Funky Town - 우리 사랑했잖아,A1020150T001,Funky Town - 우리 사랑했잖아,Funky Town - 우리 사랑했잖아,44287,"S121880,S122207","다비치,티아라","DAVICHI,T-ara","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020150T001,KRA341561086,Y
-80,지니뮤직,대중음악,A1020151,Gogossing,Gogossing,A1020151T005,Blue Moon,Blue Moon,44287,S110947,블랙펄,블랙펄,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020151T005,QZEKE1928674,Y
-80,지니뮤직,대중음악,A1020154,TTL Listen 2,TTL Listen 2,A1020154T001,TTL Listen 2,TTL Listen 2,44287,"S122207,S136318","티아라,초신성","T-ara,초신성","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020154T001,QZEKE1929165,Y
-80,지니뮤직,대중음악,A1020155,TTL (Time To Love),TTL (Time To Love),A1020155T001,TTL (Time To Love),TTL (Time To Love),44287,"S122207,S136318","티아라,초신성","T-ara,초신성","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020155T001,QZEKE1929164,Y
-80,지니뮤직,OST,A1020162,슬픔보다 더 슬픈 이야기,More Than Blue,A1020162T001,슬픔보다 더 슬픈 이야기,Story sadder than sorrow,44287,S121585,김범수,Kim Bum Soo,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020162T001,QZEKE1922859,Y
-80,지니뮤직,OST,A1020163,슬픔보다 더 슬픈 이야기 (Original Soundtrack),More Than Blue,A1020163T004,그런 사람 또 없습니다,No one else like that,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020163T004,QZEKE1922864,Y
-80,지니뮤직,OST,A1020164,슬픔보다 더 슬픈 이야기 (Original Motion Picture Soundtrack) 2nd - 그런 사람 또 없습니다,슬픔보다 더 슬픈 이야기 (Original Motion Picture Soundtrack) 2nd - 그런 사람 또 없습니다,A1020164T017,그런 사람 또 없습니다,No one else like that,44302,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020164T017,QZEKE1922860,Y
-80,지니뮤직,대중음악,A1020166,Together,Together,A1020166T001,사랑은 다 그런거래요,That's all love,44287,"S113263,S121880,S121969","양파,다비치,한나","yangpa,DAVICHI,Hanna","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020166T001,QZEKE1929044,Y
-80,지니뮤직,대중음악,A1020168,Together,Together,A1020168T001,알아요,I Know,44287,"S113263,S158620,S136319","양파,이보람,소연","yangpa,Lee Boram,SO YEON","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020168T001,QZEKE1929046,Y
-80,지니뮤직,OST,A1020169,에덴의 동쪽 2 (Original Soundtrack),에덴의 동쪽 2 (Original Soundtrack),A1020169T001,듣고 있나요,Are you listening,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020169T001,QZEKE1922936,Y
-80,지니뮤직,대중음악,A1020173,우리 사랑했잖아,We used to love,A1020173T001,우리 사랑했잖아,We were in love,44287,"S121880,S122207","다비치,티아라","DAVICHI,T-ara",L20231652,주식회사 플랜비뮤직,A1020173T001,QZEKE1923042,Y
-80,지니뮤직,대중음악,A1020174,원더우먼,Wonder Woman,A1020174T001,원더우먼,Wonder Woman,44287,"S121309,S121880,S122207","씨야,다비치,티아라","SeeYa,DAVICHI,T-ara","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020174T001,QZEKE1928642,Y
-80,지니뮤직,대중음악,A1020175,사랑 참 어렵다 (이승철 10th 리패키지),Lee Seung Chul 10th the Land of Dreams Mutopia,A1020175T001,듣고있나요,Are you listening,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020175T001,QZEKE1928977,Y
-80,지니뮤직,대중음악,A1020175,사랑 참 어렵다 (이승철 10th 리패키지),Lee Seung Chul 10th the Land of Dreams Mutopia,A1020175T002,그런사람 또 없습니다,No one else like that,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020175T002,QZEKE1928978,Y
-80,지니뮤직,OST,A1020179,커피하우스 (Original Television Soundtrack) Pt. 2,커피하우스 (Original Television Soundtrack) Pt. 2,A1020179T001,페이지원,페이지원,44287,"S100831,S102307","SG워너비,옥주현","SG Wannabe,JooHyun Oak","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020179T001,QZEKE1928849,Y
-80,지니뮤직,대중음악,A1020183,For Our Love Sake,For Our Love Sake,A1020183T002,아껴둔 사랑을 위해,아껴둔 사랑을 위해,44287,S113136,이주원,이주원,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020183T002,QZEKE1928659,Y
-80,지니뮤직,OST,A1020187,편지 (Original Soundtrack),The Letter (Original Soundtrack),A1020187T009,Stand By Me,Stand By Me,44287,S110043,Ben E. King,Ben E. King,L20231652,주식회사 플랜비뮤직,A1020187T009,QZEKE1928862,Y
-80,지니뮤직,대중음악,A1020200,첫사랑,First Love,A1020200T001,첫사랑(From 응답하라 1994),First Love(From 응답하라 1994),44287,S110968,써니사이드,MJ,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020200T001,QZEKE1928765,Y
-80,지니뮤직,대중음악,A1020834,"우리가 사랑한 그 노래, 새가수 Episode 1","The song we loved, a new singer Episode 1",A1020834T003,영일만 친구,Yeongil Bay friend,44393,S118991,오현우,Oh Hyeonu,"L20220888,L20221260,L20221261","정호뮤직,주식회사 금길,주식회사 애플뮤직",A1020834T003,QZNCB2161948,Y
-80,지니뮤직,대중음악,A1020834,"우리가 사랑한 그 노래, 새가수 Episode 1","The song we loved, a new singer Episode 1",A1020834T006,소녀와 가로등,Girl and the lamppost,44393,S114328,이나영,Lee Nayeong,"L20220888,L20221260,L20221261","정호뮤직,주식회사 금길,주식회사 애플뮤직",A1020834T006,QZNCB2161951,Y
-80,지니뮤직,대중음악,A1020858,015B Anthology Part.3,"015B Anthology, Pt.3",A1020858T001,세월의 흔적 다 버리고,Let go of all the trace of time,44378,"S123984,S121518","공일오비,오왠","015B,O.WHEN",L20221456,주식회사 엠티엠홀딩스,A1020858T001,KRA341759119,Y
-80,지니뮤직,대중음악,A1021031,"우리가 사랑한 그 노래, 새가수 Episode 2","The song we loved, a new singer Episode 2",A1021031T002,지상에서 영원으로,From Supremacy To Eternity,44400,S114467,유다은,Ryu Da Eun,"L20220888,L20221260,L20221261","정호뮤직,주식회사 금길,주식회사 애플뮤직",A1021031T002,QZNCB2164868,Y
-80,지니뮤직,대중음악,A1021148,1st Single Album [WHAT'S GOIN' ON],1st Single Album [WHAT'S GOIN' ON],A1021148T001,WHAT'S GOIN' ON,WHAT'S GOIN' ON,44445,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1021148T001,QZNCB2169970,Y
-80,지니뮤직,대중음악,A1021517,사랑했던 우리가 어떻게 친구가 되니,How can we become friends who we loved,A1021517T001,사랑했던 우리가 어떻게 친구가 되니,How can we become friends who we loved,44492,S111380,송하예,Ha Yea Song,L20221456,주식회사 엠티엠홀딩스,A1021517T001,QZNCB2173397,Y
-80,지니뮤직,뉴에이지,A1035467,베베팝의 포근한 동요 자장가,Lullaby Piano Music For Babies,A1035467T001,브람스 자장가,Brahms Lullaby,44519,S119217,베베팝,Bebepop,L20220666,플라이트래빗,A1035467T001,QZNCB2173857,Y
-80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T001,LOVE ME LIKE,LOVE ME LIKE,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T001,QZNCB2174414,Y
-80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T002,ACTION,ACTION,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T002,QZNCB2174415,Y
-80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T004,LIAR,LIAR,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T004,QZNCB2174417,Y
-80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T005,전화해요 (PLEASE),PLEASE,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T005,QZNCB2174418,Y
-80,지니뮤직,뉴에이지,A1035986,베베팝의 베이비 오르골자장가,Bebepop's Baby Orgel Lullaby,A1035986T008,섬집아기,Island Baby,44575,S119217,베베팝,Bebepop,L20220666,플라이트래빗,A1035986T008,QZNCB2177898,Y
-80,지니뮤직,대중음악,A1036666,별이될게,Tears in heaven,A1036666T001,별이될게,Tears in heaven,44611,S118276,제이세라,J-Cera,L20221456,주식회사 엠티엠홀딩스,A1036666T001,QZNCB2182604,Y
-80,지니뮤직,어린이,A1036917,다나랜드 인기동요 1,DANALAND BEST KIDS SONGS 1,A1036917T003,곰 세 마리,Three Bears,44642,S122632,다나랜드,DANALAND,L20221288,다날엔터_IP 자체제작,A1036917T003,QZNCB2183032,Y
-80,지니뮤직,대중음악,A1036984,Phoenix Rising,Phoenix Rising,A1036984T002,혼자하는 사랑,Love alone,44713,S123647,Ann One,Ann One,L20221342,손성원,A1036984T002,QZNCB2184460,Y
-80,지니뮤직,어린이,A1037118,다나랜드 인기동요 2,DANALAND BEST KIDS SONGS 2,A1037118T001,산토끼,Jack Rabbit,44663,S122632,다나랜드,DANALAND,L20221288,다날엔터_IP 자체제작,A1037118T001,QZNCB2183396,Y
-80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T001,VENUS(연결),VENUS,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T001,QZNCB2184657,Y
-80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T002,PLAY DUMB,PLAY DUMB,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T002,QZNCB2184658,Y
-80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T010,DRY FLOWER,DRY FLOWER,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T010,QZNCB2184666,Y
-80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T012,간직해줘(LOVE),LOVE,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T012,QZNCB2184668,Y
-80,지니뮤직,대중음악,A1037810,F4 스페셜 에디션,F4 Special Edition,A1037810T006,가슴이 어떻게 됐나봐,Something happened to my heart,44682,S123182,에이앤티,A&T,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1037810T006,KRA490900947,Y
-80,지니뮤직,대중음악,A1037810,F4 스페셜 에디션,F4 Special Edition,A1037810T007,나쁜 마음을 먹게해 (Ballad Ver.),Make me feel bad (Ballad Ver.),44682,S123179,티맥스,T-MAX,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1037810T007,KRA490900948,Y
-80,지니뮤직,대중음악,A1044138,1st Mini Album 'VAMOS',1st Mini Album 'VAMOS',A1044138T002,VAMOS,VAMOS,44743,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1044138T002,KRA382159092,Y
-80,지니뮤직,대중음악,A1044138,1st Mini Album 'VAMOS',1st Mini Album 'VAMOS',A1044138T004,OMEGA X,OMEGA X,44743,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1044138T004,KRA382159094,Y
-80,지니뮤직,OST,A1046539,모든 게 착각이었다 OST Part. 2,It Was All a Mistake OST Part. 2,A1046539T001,In The Novel,In The Novel,44938,S147330,민니 ((여자)아이들),MINNIE,"L20221246,L20221265,L20221288","다날엔터_IP 자체제작,다산북스,주식회사 에일뮤직",A1046539T001,QZNCB2185121,Y
-80,지니뮤직,대중음악,A1053260,"광복 60주년 공연실황 (아리수) CD 1, 2",,A1053260T002,광복 60주년 공연실황 (아리수) CD 2,,43191.5,S106243,나훈아,Na Hoon-A,L20220920,예소리,A1053260T002,KRZ291801749,Y
-80,지니뮤직,대중음악,A1060810,DNA 싱어 - 판타스틱 패밀리 Round 8,DNA Singer - Fantastic Family Round 8,A1060810T002,엄마가 딸에게,Mother to Daughter,44799.5,"S152169,S152168","강두,송한국","SONG YONG SIK,SONG HAN KUK",L20221247,주식회사 브릿지씨,A1060810T002,QZNCB2185463,Y
-80,지니뮤직,대중음악,A1062393,Break Up,Break Up,A1062393T001,홀로 (feat. 김나영),홀로 (feat. 김나영),44805.5,S152574,정키 (정희웅),Jungkey,L20231514,주식회사 온앤온아이피스튜디오,A1062393T001,KRA341629916,Y
-80,지니뮤직,대중음악,A1068570,MAMA,MAMA,A1068570T002,"MAMA (Feat. 구윤회, 한예슬, 신종욱, 김나영)","MAMA (Feat. 구윤회, 한예슬, 신종욱, 김나영)",44805.5,S152574,정키 (정희웅),Jungkey,L20231514,주식회사 온앤온아이피스튜디오,A1068570T002,KRA341300372,Y
-80,지니뮤직,클래식,A1075463,Endless Love/仲良ピース(사이 좋게 평화),Endless Love/仲良ピース(사이 좋게 평화),A1075463T001,Endless Love,Endless Love,44836.5,S155836,Shouta Aoi,Shouta Aoi,L20221308,지누락엔터테인먼트,A1075463T001,JPKI02214052,Y
-80,지니뮤직,대중음악,A1106359,너를 보는게 지친 하루에,Seeing you on a tough day,A1106359T001,너를 보는게 지친 하루에,Seeing you on a tough day,45004,S111380,송하예,Ha Yea Song,"L20220530,L20221436","더하기미디어,주식회사 디스튜디오",A1106359T001,QZNCB2194580,Y
-80,지니뮤직,대중음악,A1107541,Dream,Dream,A1107541T001,Dream,Dream,45040.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1107541T001,QZNCB2198398,Y
-80,지니뮤직,대중음악,A1110902,새벽 (SIX STORIES),DAWN (SIX STORIES),A1110902T001,삶,Life,45117.5,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1110902T001,QZNCB2149588,Y
-80,지니뮤직,대중음악,A1110902,새벽 (SIX STORIES),DAWN (SIX STORIES),A1110902T006,기장갈매기,Gijang`s Seagull,45117.5,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1110902T006,QZNCB2149593,Y
-80,지니뮤직,대중음악,A1118342,Doppelganger,Doppelganger,A1118342T001,Doppelganger,Doppelganger,45176.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1118342T001,QGNCB2306798,Y
-80,지니뮤직,대중음악,A1127447,사랑 참...,Because of love,A1127447T001,사랑 참...,Because of love,45235.75,S118276,제이세라,J-Cera,"L20220530,L20221288","다날엔터_IP 자체제작,더하기미디어",A1127447T001,QGNCB2309621,Y
-80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T002,JUNK FOOD,JUNK FOOD,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T002,QGNCB2309628,Y
-80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T003,Touch,Touch,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T003,QGNCB2309629,Y
-80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T004,HEY!,HEY!,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T004,QGNCB2309630,Y
-80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T005,ISLAND,ISLAND,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T005,QGNCB2309631,Y
-80,지니뮤직,대중음악,A1130714,내 사랑,My Love,A1130714T001,고맙습니다,Thank You,44845.5,S114745,유해준,Yoo Hae Joon,L20220673,청엔터테인먼트,A1130714T001,KSB012301019,Y
-80,지니뮤직,일렉트로니카,A1130927,Habanera,Habanera,A1130927T001,Habanera,Habanera,45280.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1130927T001,KSB012301087,Y
-80,지니뮤직,대중음악,A1135021,잘자요 아가씨,잘자요 아가씨,A1135021T001,잘자요 아가씨 (Prod. 과나),잘자요 아가씨 (Prod. 과나),45351.5,"S189102,S189103","다나카,닛몰캐쉬","TANAKA,닛몰캐쉬",L20231642,UMAG,A1135021T001,KRF502400197,Y
-80,지니뮤직,대중음악,A1135965,To Love Somebody,To Love Somebody,A1135965T001,오늘은 가지마,오늘은 가지마,40928.5,S154698,임세준,Im Se Jun,L20241925,레이벡스,A1135965T001,QZEKE1885959,Y
-80,지니뮤직,대중음악,A1137313,니가 보고싶을 때,니가 보고싶을 때,A1137313T001,니가 보고싶을 때,니가 보고싶을 때,45413.5,S108472,109,109,L20241925,레이벡스,A1137313T001,KRA381800293,Y
-80,지니뮤직,대중음악,A1138269,Rob Roy,Rob Roy,A1138269T001,Rob Roy,Rob Roy,45429.5,S189996,Beatpella House,Beatpella House,L20221265,주식회사 에일뮤직,A1138269T001,KSB012313024,Y
-80,지니뮤직,OST,A1138560,구가의 서 (Original Soundtrack) PART6,Gu Family Book (Original Soundtrack) PART6,A1138560T001,잘있나요,Best Wishes to you,45439.5,S190097,더원,The One,L20231652,주식회사 플랜비뮤직,A1138560T001,QZEKE1808101,Y
-80,지니뮤직,OST,A1138561,구가의 서 (OST) PART7,Gu Family Book OST PART7,A1138561T001,너 하나야,Only you,45439.5,S111077,포맨,4MEN,L20231652,주식회사 플랜비뮤직,A1138561T001,QZEKE1808103,Y
-80,지니뮤직,OST,A1138640,역적 : 백성을 훔친 도적 (OST) Part.5,Rebel: Thief Who Stole the People OST Part.5,A1138640T001,상사화,Magic Lily,45439.5,S111068,안예은,안예은,L20231652,주식회사 플랜비뮤직,A1138640T001,KRE621700005,Y
-80,지니뮤직,대중음악,A1140361,Let's Play The Game,Let's Play The Game,A1140361T005,Plastic Love (Inst.),Plastic Love (Inst.),45502.5,S191307,시계태엽오렌지,A Clockwork Orange,L20241862,스튜디오사인,A1140361T005,KSB012318573,Y
-80,지니뮤직,뉴에이지,A1140530,공부할 때 듣기 좋은 힐링음악 피아노 4집,공부할 때 듣기 좋은 힐링음악 피아노 4집,A1140530T002,Jesus Saves,Jesus Saves,45483.5,S184664,Julia,Julia,L20221299,RIAK,A1140530T002,KRRAR2417100,Y
-80,지니뮤직,대중음악,A1143934,잘 지내,Take care,A1143934T001,잘 지내,Take care,45505,S193493,youz,youz,L20231642,UMAG,A1143934T001,KRMM02311095,Y
-80,지니뮤직,일렉트로니카,A1145783,Bounce (Real Master JINRO),Bounce (Real Master JINRO),A1145783T001,Bounce,Bounce,45527.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1145783T001,KSB012321259,Y
-80,지니뮤직,대중음악,A1146130,Candy Thief,Candy Thief,A1146130T001,Candy Thief,Candy Thief,45534.5,S189996,Beatpella House,Beatpella House,L20221265,주식회사 에일뮤직,A1146130T001,KSB012321457,Y
-80,지니뮤직,대중음악,A1147034,발걸음,,A1147034T004,보고싶다,,45559.5,S197290,쭌92,JJUNE,L20231514,주식회사 온앤온아이피스튜디오,A1147034T004,KSB012323160,Y
-80,지니뮤직,대중음악,A1147192,DOF ep #still,DOF ep #still,A1147192T001,Bring it (With Maya),Bring it (With Maya),45569.5,S189037,DOF,DOF,L20221436,주식회사 디스튜디오,A1147192T001,KSB012324008,Y
-80,지니뮤직,일렉트로니카,A1147984,Triviallusion,Triviallusion,A1147984T001,Triviallusion,Triviallusion,45593.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1147984T001,KSB012325436,Y
-80,지니뮤직,일렉트로니카,A1151965,Dopamine,Dopamine,A1151965T001,Dopamine,Dopamine,45701.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1151965T001,KSB012333207,Y
-80,지니뮤직,대중음악,A1156004,잘 지내고 있는지 궁금해,,A1156004T001,잘 지내고 있는지 궁금해,,45748,S116420,V.O.S,V.O.S,L20231652,주식회사 플랜비뮤직,A1156004T001,KRA382000264,Y
-80,지니뮤직,대중음악,A1156005,다시 만날까 봐,,A1156005T001,다시 만날까 봐,,45748,S116420,V.O.S,V.O.S,L20231652,주식회사 플랜비뮤직,A1156005T001,KRA381904097,Y
-80,지니뮤직,대중음악,A1157521,I Like It Hot,I Like It Hot,A1157521T001,I Like It Hot,I Like It Hot,45798.75,S136096,블랙스완,BLACKSWAN,L20220433,DR뮤직,A1157521T001,KSB012338348,Y
-80,지니뮤직,대중음악,A1160322,SUMMER SPECIAL SINGLE [LOVE HIGH],SUMMER SPECIAL SINGLE [LOVE HIGH],A1160322T001,LOVE HIGH,LOVE HIGH,45880.75,S199183,LOVEONE(러브원),LOVEONE,L20241989,주식회사 초록별 엔터테인먼트,A1160322T001,KSB012342297,Y
-80,지니뮤직,OST,A1160595,여행을 대신해 드립니다 OST Part.6,My lovely journey OST Part.6,A1160595T001,문을 나선 순간 (Vocal. 소하),Out the door (Vocal. SOHA),45886.5,S214545,SAY MY NAME (세이마이네임),SAY MY NAME,L20231694,주식회사 빅오션이엔엠,A1160595T001,KSB012342729,Y
-80,지니뮤직,대중음악,A1160874,RE:AL iii,RE:AL iii,A1160874T002,Forbidden Midnight (Real ver.),Forbidden Midnight (Real ver.),45898.75,S185321,iii(아이아이아이),iii,L20231694,주식회사 빅오션이엔엠,A1160874T002,KSB012343097,Y
-80,지니뮤직,OST,A1163552,화려한 날들 OST Part.5,Our Golden Days OST Part.5,A1163552T001,화려한 날들,Our golden days,45907.75,S121510,황인욱,Hwang In Wook,L20221060,주식회사 로이,A1163552T001,KSB012343505,Y
-80,지니뮤직,OST,A1163941,화려한 날들 OST Part.6,Our Golden Days OST Part.6,A1163941T001,그대인가 봐,May You,45914.75,S135634,조현아 (어반자카파),Jo Hyun Ah,L20221060,주식회사 로이,A1163941T001,KSB012343795,Y
-80,지니뮤직,대중음악,A1164666,Humanity's Emotions Vol.2,Humanity's Emotions Vol.2,A1164666T003,A Waltz of Sunshine,A Waltz of Sunshine,45947.5,S196987,우리들의 씬스틸러,Scene Stealer of Us,L20221435,주식회사 비크엔터테인먼트,A1164666T003,KRMIM2550647,Y
-80,지니뮤직,대중음악,A1164666,Humanity's Emotions Vol.2,Humanity's Emotions Vol.2,A1164666T009,What Remains,What Remains,45947.5,S196987,우리들의 씬스틸러,Scene Stealer of Us,L20221435,주식회사 비크엔터테인먼트,A1164666T009,KRMIM2550653,Y
+﻿platform_seq,platform_name,song_type_text,album_cd,album_name_kor,album_name_eng,song_cd,song_name_kor,song_name_eng,song_release_date,artist_cd,artist_name_kor,artist_name_eng,mem_cd,mem_name,track_cd,isrc_cd,interest_yn,b2b_artist_cd_spotify,b2b_artist_cd_apple,b2b_artist_cd_melon,b2b_asset_ids_youtube,new_date
+80,지니뮤직,대중음악,A1000001,Fun'ch,Fun'ch,A1000001T005,못된 여자,Bad Girl,39603,S123981,원투 (One Two),One Two,L20220049,바론 엔터,A1000001T005,QZEKE1873038,Y,,,,,
+80,지니뮤직,대중음악,A1000002,Big 5,Big 5,A1000002T002,슬픈 인연,Sad Fate,34335,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000002T002,KRA341436137,Y,,,,,
+80,지니뮤직,대중음악,A1000005,015B The Best Collection,015B The Best Collection,A1000005T012,이젠 안녕,Good bye for now,35125,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000005T012,KRA341436162,Y,,,,,
+80,지니뮤직,대중음악,A1000022,공일오비,015B,A1000022T001,텅 빈 거리에서,In an empty street,32874,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000022T001,KRA340902406,Y,,,,,
+80,지니뮤직,대중음악,A1000026,귀향,Homecoming,A1000026T001,사랑한다는 말,"The words "" I love you""",37190,S119571,김동률,Kim Dong Ryul,L20220050,다날엔터_IP 포이보스,A1000026T001,KRA341315221,Y,,,,,
+80,지니뮤직,대중음악,A1000026,귀향,Homecoming,A1000026T002,다시 사랑한다 말할까,"I say ""I love you"" again",37190,S119571,김동률,Kim Dong Ryul,L20220050,다날엔터_IP 포이보스,A1000026T002,KRA341315222,Y,,,,,
+80,지니뮤직,대중음악,A1000045,놀이,Game,A1000045T003,난 여자가 있는데,I have a lover,37049,S120427,박진영,J.Y. Park,L20220050,다날엔터_IP 포이보스,A1000045T003,QZEKE1870237,Y,,,,,
+80,지니뮤직,대중음악,A1000065,못된 남자,,A1000065T001,못된 남자,,39352,S100153,엠투엠,M To M,L20252410,포이보스(압류),A1000065T001,KRA341671157,Y,,,,,
+80,지니뮤직,대중음악,A1000079,사랑의 배터리,Love's Battery,A1000079T001,사랑의 배터리,Love's Battery,39983,S119570,홍진영,Hong Jin-young,L20220427,다날엔터_IP 인접보유,A1000079T001,KRA340904903,Y,,,,,
+80,지니뮤직,대중음악,A1000082,성인식,Coming of age ceremony,A1000082T003,성인식,Coming of age ceremony,36733,S100089,박지윤,박지윤,L20220050,다날엔터_IP 포이보스,A1000082T003,QZEKE1870193,Y,,,,,
+80,지니뮤직,대중음악,A1000082,성인식,Coming of age ceremony,A1000082T005,환상,Illusion,36733,S100089,박지윤,박지윤,L20220050,다날엔터_IP 포이보스,A1000082T005,QZEKE1870195,Y,,,,,
+80,지니뮤직,대중음악,A1000083,슬픈 표정 하지 말아요,Don`t look so sad,A1000083T001,슬픈 표정 하지 말아요,Don`t look so sad,32994,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000083T001,QZEKE1869961,Y,,,,,
+80,지니뮤직,대중음악,A1000087,쌍둥이 파워,,A1000087T003,학교를 안갔어,,36543,S100066,량현량하,량현량하,L20220050,다날엔터_IP 포이보스,A1000087T003,QZEKE1870174,Y,,,,,
+80,지니뮤직,대중음악,A1000094,The First Mind - 여인의 향기,The First Mind - Scent of a Woman,A1000094T001,여인의 향기,Scent of a Woman,38772,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000094T001,KRA341321102,Y,,,,,
+80,지니뮤직,대중음악,A1000094,The First Mind - 여인의 향기,The First Mind - Scent of a Woman,A1000094T002,구두,shoes,38772,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000094T002,KRA341321103,Y,,,,,
+80,지니뮤직,대중음악,A1000096,열여섯번째 이야기,Choi Baek Ho`s Sixteenth Story,A1000096T002,낭만에 대하여,Abount Romantic,34639,S120134,최백호,최백호,L20220050,다날엔터_IP 포이보스,A1000096T002,QZEKE1870031,Y,,,,,
+80,지니뮤직,대중음악,A1000102,우(愚),Woo,A1000102T001,환생,Rebirth,35156,S121308,윤종신,Yoon Jong Shin,L20220050,다날엔터_IP 포이보스,A1000102T001,KRA341326157,Y,,,,,
+80,지니뮤직,대중음악,A1000156,M TO M (ANTIQUE VOICE),,A1000156T001,세글자,,38597,S124028,M TO M,M TO M,L20252410,포이보스(압류),A1000156T001,KRA341671506,Y,,,,,
+80,지니뮤직,대중음악,A1000161,BAD LOVE,BAD LOVE,A1000161T004,몹쓸 사랑,몹쓸 사랑,39492,S100043,나오미,나오미,L20220084,클라이믹스,A1000161T004,KRA341212621,Y,,,,,
+80,지니뮤직,대중음악,A1000178,Carnival (이적+김동률 프로젝트 앨범),Carnival (Lee Juck+Kim Dong Ryul Project Album),A1000178T003,그땐 그랬지,At that time,35554,S119572,카니발,Carnival,L20220050,다날엔터_IP 포이보스,A1000178T003,KRA340901845,Y,,,,,
+80,지니뮤직,대중음악,A1000229,Exhibition,Exhibition,A1000229T001,기억의 습작,Etude of Memory,34455,S119574,전람회,Exhibition,L20220050,다날엔터_IP 포이보스,A1000229T001,KRA340902456,Y,,,,,
+80,지니뮤직,대중음악,A1000230,Exhibition 2,Exhibition 2,A1000230T008,취중진담,Druken Truth,35156,S119574,전람회,Exhibition,L20220050,다날엔터_IP 포이보스,A1000230T008,KRA340902472,Y,,,,,
+80,지니뮤직,대중음악,A1000305,Lovely Sweet Heart,Lovely Sweet Heart,A1000305T001,사랑의 인사,사랑의 인사,39227,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000305T001,KRA341321101,Y,,,,,
+80,지니뮤직,대중음악,A1000305,Lovely Sweet Heart,Lovely Sweet Heart,A1000305T002,결혼할까요,결혼할까요,39227,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000305T002,KRA341321100,Y,,,,,
+80,지니뮤직,대중음악,A1000305,Lovely Sweet Heart,Lovely Sweet Heart,A1000305T005,어떻게 널 잊겠니,어떻게 널 잊겠니,39227,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1000305T005,KRA341321097,Y,,,,,
+80,지니뮤직,대중음악,A1000340,Myself,Myself,A1000340T003,나에게 쓰는 편지,Letter to myself,33317,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000340T003,QZEKE1869985,Y,,,,,
+80,지니뮤직,대중음악,A1000340,Myself,Myself,A1000340T005,그대에게,To you,33317,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000340T005,QZEKE1869987,Y,,,,,
+80,지니뮤직,대중음악,A1000340,Myself,Myself,A1000340T006,내 마음 깊은 곳의 너,You in my deep heart,33317,S100134,신해철,Shin Hae Chul,L20220050,다날엔터_IP 포이보스,A1000340T006,QZEKE1869988,Y,,,,,
+80,지니뮤직,대중음악,A1000362,2008 One Two (Digital Single),2008 One Two - Bad Girl,A1000362T001,못된 여자,2008 One Two - Bad Girl,39566,S123981,원투 (One Two),One Two,L20220049,바론 엔터,A1000362T001,QZEKE1873023,Y,,,,,
+80,지니뮤직,대중음악,A1000411,Second Episode,,A1000411T002,이젠 안녕,,33359,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000411T002,KRA341436125,Y,,,,,
+80,지니뮤직,대중음악,A1000430,So Fresh,So Fresh,A1000430T001,So Fresh,So Fresh,39260,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000430T001,QZEKE1872915,Y,,,,,
+80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T001,감사,Thanks,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T001,KRA341315187,Y,,,,,
+80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T002,기억의 습작,Etude Of Memoirs,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T002,KRA341315188,Y,,,,,
+80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T009,취중진담,My Tipsy Confession,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T009,KRA341315195,Y,,,,,
+80,지니뮤직,대중음악,A1000477,감사,Thanks,A1000477T019,다시 사랑한다 말할까,Should I Say It One More Time,39156,S119571,김동률,Kim Dong Ryul,L20220432,대영에이브이,A1000477T019,KRA341315205,Y,,,,,
+80,지니뮤직,대중음악,A1000480,The 3rd Masterpiece,The 3rd Masterpiece,A1000480T001,내사람,Partner for Life,38818,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000480T001,KRA341320880,Y,,,,,
+80,지니뮤직,대중음악,A1000480,The 3rd Masterpiece,The 3rd Masterpiece,A1000480T002,느림보,느림보,38818,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000480T002,KRA341320881,Y,,,,,
+80,지니뮤직,대중음악,A1000480,The 3rd Masterpiece,The 3rd Masterpiece,A1000480T004,사랑했어요,사랑했어요,38818,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000480T004,KRA341320883,Y,,,,,
+80,지니뮤직,대중음악,A1000484,The Colorful Voices,The Colorful Voices,A1000484T001,새까맣게,새까맣게,39427,S124113,엠투엠,MTOM,L20252410,포이보스(압류),A1000484T001,KRA341212603,Y,,,,,
+80,지니뮤직,대중음악,A1000496,The Natural,The Natural,A1000496T001,오래전 그날,The day long ago,33970,S121308,윤종신,Yoon Jong Shin,L20220050,다날엔터_IP 포이보스,A1000496T001,KRA341326137,Y,,,,,
+80,지니뮤직,대중음악,A1000503,The Sentimental Chord,The Sentimental Chord,A1000503T001,아리랑,아리랑,39178,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000503T001,KRA341320864,Y,,,,,
+80,지니뮤직,대중음악,A1000503,The Sentimental Chord,The Sentimental Chord,A1000503T003,한여름날의 꿈,한여름날의 꿈,39178,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000503T003,KRA341320866,Y,,,,,
+80,지니뮤직,대중음악,A1000503,The Sentimental Chord,The Sentimental Chord,A1000503T011,STAY,STAY,39178,S100831,SG워너비,SG Wannabe,L20252410,포이보스(압류),A1000503T011,KRA341320874,Y,,,,,
+80,지니뮤직,대중음악,A1000504,The Shadow Of Forgetfulness,The Shadow Of Forgetfulness,A1000504T006,기적,Miracle,36130,S119571,김동률,Kim Dong Ryul,L20220050,다날엔터_IP 포이보스,A1000504T006,KRA341315216,Y,,,,,
+80,지니뮤직,대중음악,A1000506,The Third Wave,The Third Wave,A1000506T001,아주 오래된 연인들,Very longtime Lovers,33817,S123984,공일오비,015B,L20220050,다날엔터_IP 포이보스,A1000506T001,KRA340902416,Y,,,,,
+80,지니뮤직,대중음악,A1000507,The Way I Am,The Way I Am,A1000507T002,아이스크림,아이스크림,38985,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000507T002,QZEKE1872221,Y,,,,,
+80,지니뮤직,대중음악,A1000507,The Way I Am,The Way I Am,A1000507T005,기도 (Feat. 박효신),기도 (Feat. 박효신),38985,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000507T005,QZEKE1872224,Y,,,,,
+80,지니뮤직,대중음악,A1000508,The Way I Am (Repack),The Way I Am (Repack),A1000508T001,너에게 쓰는 편지 Part.2,너에게 쓰는 편지 Part.2,39064,S119573,MC몽,MC MONG,L20220049,바론 엔터,A1000508T001,KRA341671957,Y,,,,,
+80,지니뮤직,대중음악,A1000998,여보세요,여보세요,A1000998T002,She,She,40360,S101245,자미 소울,Jami Soul,L20220172,우드사이드,A1000998T002,KRA341209987,Y,,,,,
+80,지니뮤직,대중음악,A1001373,CONTI UKISS,CONTI UKISS,A1001373T002,만만하니,Am I too easy?,40817,S121576,유키스,U-KISS,L20220441,NH미디어,A1001373T002,KRA341201525,Y,,,,,
+80,지니뮤직,대중음악,A1002151,기억속의 멜로디,Melody in Memory,A1002151T001,감사,Thanks,41157,S119571,김동률,Kim Dong Ryul,L20252425,다날엔터_IP 포이보스(기타),A1002151T001,KRA341210536,Y,,,,,
+80,지니뮤직,대중음악,A1002151,기억속의 멜로디,Melody in Memory,A1002151T007,다시 사랑한다 말할까,"I say ""I love you"" again",41157,S119571,김동률,Kim Dong Ryul,L20252425,다날엔터_IP 포이보스(기타),A1002151T007,KRA341210542,Y,,,,,
+80,지니뮤직,대중음악,A1002826,귀요미송 (ReTitle),Gwiyomi song (ReTitle),A1002826T001,귀요미송,Gwiyomi song,41323,S154851,하리,하리,L20220274,Y Tree Entertainment,A1002826T001,KRA341223119,Y,,,,,
+80,지니뮤직,대중음악,A1003243,Love in Memory,Love in Memory,A1003243T001,취중진담,Druken Truth,41442,S119571,김동률,Kim Dong Ryul,L20252425,다날엔터_IP 포이보스(기타),A1003243T001,KRA341309413,Y,,,,,
+80,지니뮤직,대중음악,A1003532,Last Romanticist,Last Romanticist,A1003532T003,후회는 없어,There is no regret,41548,S100049,노블레스,Noblesse,L20220466,어나더 무드,A1003532T003,KRA341334302,Y,,,,,
+80,지니뮤직,대중음악,A1003583,See You Again,See You Again,A1003583T005,여인의 향기,Scent of a Woman,44287,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1003583T005,KRA341321102,Y,,,,,
+80,지니뮤직,대중음악,A1003583,See You Again,See You Again,A1003583T007,사랑의 인사,사랑의 인사,44287,S121309,씨야,SeeYa,L20252410,포이보스(압류),A1003583T007,KRA341321101,Y,,,,,
+80,지니뮤직,대중음악,A1004038,Gwiyomi song,Gwiyomi song,A1004038T001,Gwiyomi song,Gwiyomi song,41684,S154851,하리,하리,L20220274,Y Tree Entertainment,A1004038T001,KRA341404898,Y,,,,,
+80,지니뮤직,대중음악,A1004893,우리 얘기 좀 해,Can we just talk?,A1004893T001,우리 얘기 좀 해,Can we just talk?,41831,S121630,릴로,Lillo,L20220326,뮤직플러그엔터테인먼트,A1004893T001,KRA341432600,Y,,,,,
+80,지니뮤직,어린이,A1008641,어린이 자장가 어린이집에서 틀어주는 EQ발달 기능성자장가 베스트 모음집,,A1008641T001,모차르트 자장가,모차르트 자장가,42314,S118433,동요자장가,Musical Lullabies For Kids,L20220666,플라이트래빗,A1008641T001,KRA341552554,Y,,,,,
+80,지니뮤직,어린이,A1008641,어린이 자장가 어린이집에서 틀어주는 EQ발달 기능성자장가 베스트 모음집,,A1008641T003,브람스 자장가,브람스 자장가,42314,S118433,동요자장가,Musical Lullabies For Kids,L20220666,플라이트래빗,A1008641T003,KRA341551589,Y,,,,,
+80,지니뮤직,어린이,A1009098,"오르골 연주곡 어린이집 감성 자장가 음악 베스트(태교,숙면을 위한 잔잔한 클래식 동요 명곡)",Sentimental Music Boxes Nursery Lullaby Music Best (A classic children's song for prenatal education and deep sleep),A1009098T001,브람스 자장가(오르골),Brahms : Lullaby,42375,S118428,오르골 엔젤,Orgel Angel,L20220666,플라이트래빗,A1009098T001,KRA341600606,Y,,,,,
+80,지니뮤직,어린이,A1009250,"어린이 인기 동요 감성 음악 연주곡 베스트(태교,어린이집 자장가,유아 클래식 명곡 모음)",Popular Sentimental Children's Song Best,A1009250T001,섬집아기(오르골),A Cottage On An Isle (Orgel),42394,S118428,오르골 엔젤,Orgel Angel,L20220666,플라이트래빗,A1009250T001,QZEKE1854534,Y,,,,,
+80,지니뮤직,대중음악,A1010449,자전거 탄 풍경,A bicycle Ride,A1010449T002,"너에게 난, 나에게 넌","Me to You, You to Me",42552,S119568,자전거 탄 풍경,A bicycle Ride,L20220810,자전거 탄 풍경,A1010449T002,QZEKE1870248,Y,,,,,
+80,지니뮤직,대중음악,A1010656,삐에로는 우릴 보고 웃지,Piero laughs at us,A1010656T003,삐에로는 우릴 보고 웃지,Piero laughs at us,42583,S119451,김완선,Kim Wan-sun,L20220755,케이더블유썬플라워엔터테인먼트,A1010656T003,KRA341207670,Y,,,,,
+80,지니뮤직,대중음악,A1010709,Boy's Story in the City,Boy's Story in the City,A1010709T004,For My Love,For My Love,42583,S106939,엠스트리트(M.Street),엠스트리트(M.Street),L20220744,케미컬레코즈,A1010709T004,QZEKE1870422,Y,,,,,
+80,지니뮤직,대중음악,A1011029,Baby Vox Ⅱ,,A1011029T001,야야야,,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011029T001,KRD451801962,Y,,,,,
+80,지니뮤직,대중음악,A1011030,Come Come Come Baby,,A1011030T002,Get Up,,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011030T002,KRA340911447,Y,,,,,
+80,지니뮤직,대중음악,A1011030,Come Come Come Baby,,A1011030T004,Killer,,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011030T004,KRA340911449,Y,,,,,
+80,지니뮤직,대중음악,A1011031,Devotion,,A1011031T013,우연 (Deep club Re-mix),,42615,S107070,베이비 복스 1기,베이비 복스 1기,L20220433,DR뮤직,A1011031T013,KRD451801982,Y,,,,,
+80,지니뮤직,대중음악,A1011223,자장가,Lullaby,A1011223T001,브람스 자장가,Brahms Lullaby,42648,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1011223T001,QZEKE1853660,Y,,,,,
+80,지니뮤직,어린이,A1011351,"숙면을 위한 잔잔한 감성 피아노 연주곡 베스트(태교,명상 음악,불면증,클래식 추천곡 모음)",Mild Emotional Piano Performance for deep sleep,A1011351T001,브람스 자장가 (Rain Ver.),Brahms : Lullaby (Rain Ver.),42663,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1011351T001,QZEKE1853356,Y,,,,,
+80,지니뮤직,대중음악,A1012045,나이트 댄스 1,,A1012045T007,편지,,42736,S100001,Various Artists,Various Artists,L20220888,정호뮤직,A1012045T007,QZEKE1871038,Y,,,,,
+80,지니뮤직,대중음악,A1012741,The Original,The Original,A1012741T013,이젠 잊기로 해요,Let's forget it,42842,S119451,김완선,Kim Wan-sun,L20220755,케이더블유썬플라워엔터테인먼트,A1012741T013,KRA341749722,Y,,,,,
+80,지니뮤직,대중음악,A1012741,The Original,The Original,A1012741T017,기분 좋은 날,It's a good day,42842,S119451,김완선,Kim Wan-sun,L20220755,케이더블유썬플라워엔터테인먼트,A1012741T017,KRA341749726,Y,,,,,
+80,지니뮤직,어린이,A1012829,"어린이 자장가 감성 오르골 연주곡 베스트(태교 음악,동요,클래식 명곡 모음)",The Best Emotional orgel collection - Children lullaby,A1012829T001,자장가(오르골),Lullaby (Orgel),42863,S107968,오르골,오르골,L20220666,플라이트래빗,A1012829T001,QZEKE1851730,Y,,,,,
+80,지니뮤직,OST,A1012871,군주 - 가면의 주인 OST Part.2,The Emperor : Owner of the Mask OST Part.2,A1012871T001,처음부터 너와 나,From the beginning You and I,42872,S118271,볼빨간사춘기,BOL4,L20241743,다날엔터_IP 군주 외,A1012871T001,KRA341750456,Y,,,,,
+80,지니뮤직,어린이,A1013032,WOW 인기동요,,A1013032T008,모두 제자리,,42900,S107216,동요,동요,L20220496,로드뮤직,A1013032T008,QZNCB2172286,Y,,,,,
+80,지니뮤직,어린이,A1013146,"잠 잘때 듣는 감성 피아노 연주곡 베스트(힐링,태교 음악,뉴에이지,클래식,동요 명곡 모음)",Best Piano songs For Deep Sleep,A1013146T020,브람스 자장가 (피아노와 오르골),Brhams Lullaby (Piano and Music Boxes),42922,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1013146T020,QZEKE1850967,Y,,,,,
+80,지니뮤직,대중음악,A1013201,Dream Again,Dream Again,A1013201T002,男子의 人生 (남자의 인생),Life of a man,42933,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013201T002,KRA341781528,Y,,,,,
+80,지니뮤직,어린이,A1013376,"숙면을 위한 감성 피아노 연주곡 베스트 (명상 음악,불면증 테라피,태교,자연 효과음,클래식 명곡 모음)",Best Emotional Piano Performance for deep sleep,A1013376T001,브람스 자장가 (피아노와 오르골) (Rain Ver.),Brahms : Lullaby (Piano and Orgel) (Rain Ver.),42968,S121575,자장가,Lullaby,L20220666,플라이트래빗,A1013376T001,KRA341783029,Y,,,,,
+80,지니뮤직,POP,A1013619,풍뎅이 풍뎅이 Go! 솜사탕,Pungdeng-i Pungdeng-i Go! Cotton candy,A1013619T002,솜사탕,cotton candy,43009,S108983,풍뎅이,PDE,L20220946,김도윤,A1013619T002,KRA341403718,Y,,,,,
+80,지니뮤직,대중음악,A1013729,나훈아 - 40주년 기념 특별 기획음반 (최신 골든 히트곡 모음집),Na Hoon-A- 40th Anniverary Special Project Album (Latest collection of golden hits),A1013729T001,홍시,Hongsi,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013729T001,KRZ291801251,Y,,,,,
+80,지니뮤직,대중음악,A1013729,나훈아 - 40주년 기념 특별 기획음반 (최신 골든 히트곡 모음집),Na Hoon-A- 40th Anniverary Special Project Album (Latest collection of golden hits),A1013729T004,내 삶을 눈물로 채워도,Even if I fill my life with tears,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013729T004,KRZ291801254,Y,,,,,
+80,지니뮤직,대중음악,A1013729,나훈아 - 40주년 기념 특별 기획음반 (최신 골든 히트곡 모음집),Na Hoon-A- 40th Anniverary Special Project Album (Latest collection of golden hits),A1013729T005,공,Empty,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013729T005,KRZ291801255,Y,,,,,
+80,지니뮤직,대중음악,A1013731,벗 (40주년 기념앨범),Friend (40th Anniverary Album),A1013731T010,사모,Longing,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013731T010,KRZ291801275,Y,,,,,
+80,지니뮤직,대중음악,A1013731,벗 (40주년 기념앨범),Friend (40th Anniverary Album),A1013731T013,고장난 벽시계,Broken Wall Clock,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1013731T013,KRZ291801278,Y,,,,,
+80,지니뮤직,대중음악,A1014083,New Freestyle (40주년 기념앨범),New Freestyle (40th anniversary Album),A1014083T001,사내,Man,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1014083T001,KRZ291801323,Y,,,,,
+80,지니뮤직,대중음악,A1014084,빅히트 40곡 (나훈아 전곡 모음집),Big Hit 40 Song (Na Hoon-A`s All Music Collection),A1014084T029,영영,Forever,43136,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1014084T029,KRZ291801360,Y,,,,,
+80,지니뮤직,OST,A1015723,사의찬미 OST Part.1,The Hymn of Death OST Part. 1,A1015723T001,가슴만 알죠,Only my heart knows,43431,S118353,소향,Sohyang,L20241743,다날엔터_IP 군주 외,A1015723T001,KRZ291832880,Y,,,,,
+80,지니뮤직,대중음악,A1016461,벗2,Friend2,A1016461T002,무심세월,Indifferent years,43588,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1016461T002,QZEKE1864209,Y,,,,,
+80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T001,곰세마리,Three Bears,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T001,QZEKE1864642,Y,,,,,
+80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T002,멋쟁이 토마토,Dandy Tomato,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T002,QZEKE1864643,Y,,,,,
+80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T003,악어떼,Crocodiles,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T003,QZEKE1864644,Y,,,,,
+80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T005,그대로 멈춰라,Just Stop,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T005,QZEKE1864646,Y,,,,,
+80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T009,둥글게 둥글게,Roundly Roundly,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T009,QZEKE1864650,Y,,,,,
+80,지니뮤직,어린이,A1016529,"우리 아이 감성 발달 인기 동요 베스트 100 (키즈카페, 어린이집, 유치원, 유아, 신나는 율동, 교과서, 창작, 필수, 누리과정)",Our Child Sentimental Development Popular Kids Song Best 100,A1016529T088,모두 제자리,All in place,43613,S107216,동요,동요,L20220666,플라이트래빗,A1016529T088,QZEKE1864729,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T001,호키포키 (율동동요),Hoki Poki (Rhythm Children`s Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T001,QZEKE1865394,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T002,악어떼 (유치원 인기동요),Crocodiles (Kindergarten Popular Kids Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T002,QZEKE1865395,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T003,통통통통 (통통통통 털보영감님),Tong Tong Tong Tong (Tongtongtongtong Hairy Old Man),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T003,QZEKE1865396,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T005,작은 동물원 (삐약삐약 병아리),Small Zoo (PPIYAK PPIYAK Chick),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T005,QZEKE1865398,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T007,비행기,Airplane,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T007,QZEKE1865400,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T008,멋쟁이 토마토 (인기 율동동요),Dandy Tomato,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T008,QZEKE1865401,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T009,곰세마리 (인기 율동동요),Three Bears,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T009,QZEKE1865402,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T013,산토끼,Hare,43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T013,QZEKE1865406,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T014,머리 어깨 무릎 발 (인기 율동동요),"Head, Shoulder, Knee, Foot (Popular Rhythm Children`s Song)",43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T014,QZEKE1865407,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T015,그대로 멈춰라 (놀이동요),Just Stop It (Play Children`s Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T015,QZEKE1865408,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T016,거미가 줄을 타고 올라갑니다 (거미),Itchy Bitchy Spider (Spider),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T016,QZEKE1865409,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T025,동물농장 (닭장 속에는 암탉이),Animal Farm ( A hen is in a henhouse),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T025,QZEKE1865418,Y,,,,,
+80,지니뮤직,어린이,A1016552,"창의력 발달 어린이 인기 동요 베스트 180 (유치원, 키즈카페, 어린이집, 유아, 초등학교, 신나는 율동, 교과서, 창작, 필수, 누리과정, TV만화 주제곡)",Creativity Development Best Children's Song 180,A1016552T118,섬집아기 (자장가 동요),A Cottage On An Isle (Lullaby children`s Song),43634,S107216,동요,동요,L20220666,플라이트래빗,A1016552T118,QZEKE1877160,Y,,,,,
+80,지니뮤직,OST,A1016825,프로듀사 OST,프로듀사 OST,A1016825T001,사랑의 시작은 고백에서부터,사랑의 시작은 고백에서부터,43678,S123109,김범수,Kim Bumsoo,L20221060,주식회사 로이,A1016825T001,QZEKE1878644,Y,,,,,
+80,지니뮤직,대중음악,A1017045,Chuu,,A1017045T001,Heart Attack (츄),,43709,S135056,츄 (이달의 소녀),Chuu,L20221456,주식회사 엠티엠홀딩스,A1017045T001,QZEKE1914225,Y,,,,,
+80,지니뮤직,대중음악,A1017048,beauty&thebeat,beauty&thebeat,A1017048T002,love4eva (feat. Grimes),love4eva (feat. Grimes),43709,S119474,이달의 소녀 yyxy,이달의 소녀 yyxy,L20221436,주식회사 디스튜디오,A1017048T002,QZEKE1914232,Y,,,,,
+80,지니뮤직,대중음악,A1017049,[+ +],[+ +],A1017049T002,HI High,HI High,43709,S119140,이달의 소녀,LOOΠΔ,L20221436,주식회사 디스튜디오,A1017049T002,QZEKE1914237,Y,,,,,
+80,지니뮤직,대중음악,A1017050,Max & Match,Max & Match,A1017050T004,Girl Front,Girl Front,43709,S119473,이달의 소녀 오드아이써클,LOOΠΔ / ODD EYE CIRCLE,L20221436,주식회사 디스튜디오,A1017050T004,QZEKE1914217,Y,,,,,
+80,지니뮤직,대중음악,A1017381,un2verse,un2verse,A1017381T001,Gucci,Gucci,43770,S105918,제시,Jessi,L20220744,케미컬레코즈,A1017381T001,QZEKE1914752,Y,,,,,
+80,지니뮤직,OST,A1017389,딴따라OST Part.5,,A1017389T001,사진찍어 보내줘,,43770,S110002,개코,개코,L20220744,케미컬레코즈,A1017389T001,KRA381600909,Y,,,,,
+80,지니뮤직,대중음악,A1017861,혜성,,A1017861T001,혜성,,43862,S135590,윤하 (Younha/ユンナ),윤하 (Younha/ユンナ),L20220744,케미컬레코즈,A1017861T001,KRB471600101,Y,,,,,
+80,지니뮤직,대중음악,A1018214,사랑하기 전에는,before you love,A1018214T001,사랑하기 전에는,before you love,43913,S114745,유해준,Yoo Hae Joon,L20220673,청엔터테인먼트,A1018214T001,QZEKE1932613,Y,,,,,
+80,지니뮤직,대중음악,A1018680,CODE#01 나쁜여자,,A1018680T002,나쁜여자,,44044,S110352,레이디스 코드 (LADIES` CODE),레이디스 코드 (LADIES` CODE),L20221456,주식회사 엠티엠홀딩스,A1018680T002,KRA491300139,Y,,,,,
+80,지니뮤직,대중음악,A1018681,CODE#02 PRETTY PRETTY,,A1018681T002,예뻐 예뻐,,44044,S110352,레이디스 코드 (LADIES` CODE),레이디스 코드 (LADIES` CODE),L20221456,주식회사 엠티엠홀딩스,A1018681T002,KRA491301046,Y,,,,,
+80,지니뮤직,대중음악,A1018681,CODE#02 PRETTY PRETTY,,A1018681T004,I`m Fine Thank You,,44044,S110352,레이디스 코드 (LADIES` CODE),레이디스 코드 (LADIES` CODE),L20221456,주식회사 엠티엠홀딩스,A1018681T004,KRA491301048,Y,,,,,
+80,지니뮤직,대중음악,A1018917,아홉 이야기,아홉 이야기,A1018917T003,테스형!,테스형!,44063,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1018917T003,QZEKE2003944,Y,,,,,
+80,지니뮤직,대중음악,A1019038,[#],,A1019038T002,So What,,44075,S119140,이달의 소녀,LOOΠΔ,L20221172,다날엔터_IP 이달소2,A1019038T002,KRA382000125,Y,,,,,
+80,지니뮤직,대중음악,A1019039,[X X],,A1019039T002,Butterfly,Butterfly,44075,S119140,이달의 소녀,LOOΠΔ,L20221172,다날엔터_IP 이달소2,A1019039T002,KRA381900458,Y,,,,,
+80,지니뮤직,대중음악,A1019981,이별행동,Break up,A1019981T001,이별행동,Break up,44256,S121486,이우,LEEWOO,L20221456,주식회사 엠티엠홀딩스,A1019981T001,KRA381904422,Y,,,,,
+80,지니뮤직,대중음악,A1020150,Funky Town - 우리 사랑했잖아,Funky Town - 우리 사랑했잖아,A1020150T001,Funky Town - 우리 사랑했잖아,Funky Town - 우리 사랑했잖아,44287,"S121880,S122207","다비치,티아라","DAVICHI,T-ara","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020150T001,KRA341561086,Y,,,,,
+80,지니뮤직,대중음악,A1020151,Gogossing,Gogossing,A1020151T005,Blue Moon,Blue Moon,44287,S110947,블랙펄,블랙펄,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020151T005,QZEKE1928674,Y,,,,,
+80,지니뮤직,대중음악,A1020154,TTL Listen 2,TTL Listen 2,A1020154T001,TTL Listen 2,TTL Listen 2,44287,"S122207,S136318","티아라,초신성","T-ara,초신성","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020154T001,QZEKE1929165,Y,,,,,
+80,지니뮤직,대중음악,A1020155,TTL (Time To Love),TTL (Time To Love),A1020155T001,TTL (Time To Love),TTL (Time To Love),44287,"S122207,S136318","티아라,초신성","T-ara,초신성","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020155T001,QZEKE1929164,Y,,,,,
+80,지니뮤직,OST,A1020162,슬픔보다 더 슬픈 이야기,More Than Blue,A1020162T001,슬픔보다 더 슬픈 이야기,Story sadder than sorrow,44287,S121585,김범수,Kim Bum Soo,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020162T001,QZEKE1922859,Y,,,,,
+80,지니뮤직,OST,A1020163,슬픔보다 더 슬픈 이야기 (Original Soundtrack),More Than Blue,A1020163T004,그런 사람 또 없습니다,No one else like that,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020163T004,QZEKE1922864,Y,,,,,
+80,지니뮤직,OST,A1020164,슬픔보다 더 슬픈 이야기 (Original Motion Picture Soundtrack) 2nd - 그런 사람 또 없습니다,슬픔보다 더 슬픈 이야기 (Original Motion Picture Soundtrack) 2nd - 그런 사람 또 없습니다,A1020164T017,그런 사람 또 없습니다,No one else like that,44302,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020164T017,QZEKE1922860,Y,,,,,
+80,지니뮤직,대중음악,A1020166,Together,Together,A1020166T001,사랑은 다 그런거래요,That's all love,44287,"S113263,S121880,S121969","양파,다비치,한나","yangpa,DAVICHI,Hanna","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020166T001,QZEKE1929044,Y,,,,,
+80,지니뮤직,대중음악,A1020168,Together,Together,A1020168T001,알아요,I Know,44287,"S113263,S158620,S136319","양파,이보람,소연","yangpa,Lee Boram,SO YEON","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020168T001,QZEKE1929046,Y,,,,,
+80,지니뮤직,OST,A1020169,에덴의 동쪽 2 (Original Soundtrack),에덴의 동쪽 2 (Original Soundtrack),A1020169T001,듣고 있나요,Are you listening,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020169T001,QZEKE1922936,Y,,,,,
+80,지니뮤직,대중음악,A1020173,우리 사랑했잖아,We used to love,A1020173T001,우리 사랑했잖아,We were in love,44287,"S121880,S122207","다비치,티아라","DAVICHI,T-ara",L20231652,주식회사 플랜비뮤직,A1020173T001,QZEKE1923042,Y,,,,,
+80,지니뮤직,대중음악,A1020174,원더우먼,Wonder Woman,A1020174T001,원더우먼,Wonder Woman,44287,"S121309,S121880,S122207","씨야,다비치,티아라","SeeYa,DAVICHI,T-ara","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020174T001,QZEKE1928642,Y,,,,,
+80,지니뮤직,대중음악,A1020175,사랑 참 어렵다 (이승철 10th 리패키지),Lee Seung Chul 10th the Land of Dreams Mutopia,A1020175T001,듣고있나요,Are you listening,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020175T001,QZEKE1928977,Y,,,,,
+80,지니뮤직,대중음악,A1020175,사랑 참 어렵다 (이승철 10th 리패키지),Lee Seung Chul 10th the Land of Dreams Mutopia,A1020175T002,그런사람 또 없습니다,No one else like that,44287,S121586,이승철,Lee Seung Chul,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020175T002,QZEKE1928978,Y,,,,,
+80,지니뮤직,OST,A1020179,커피하우스 (Original Television Soundtrack) Pt. 2,커피하우스 (Original Television Soundtrack) Pt. 2,A1020179T001,페이지원,페이지원,44287,"S100831,S102307","SG워너비,옥주현","SG Wannabe,JooHyun Oak","L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020179T001,QZEKE1928849,Y,,,,,
+80,지니뮤직,대중음악,A1020183,For Our Love Sake,For Our Love Sake,A1020183T002,아껴둔 사랑을 위해,아껴둔 사랑을 위해,44287,S113136,이주원,이주원,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020183T002,QZEKE1928659,Y,,,,,
+80,지니뮤직,OST,A1020187,편지 (Original Soundtrack),The Letter (Original Soundtrack),A1020187T009,Stand By Me,Stand By Me,44287,S110043,Ben E. King,Ben E. King,L20231652,주식회사 플랜비뮤직,A1020187T009,QZEKE1928862,Y,,,,,
+80,지니뮤직,대중음악,A1020200,첫사랑,First Love,A1020200T001,첫사랑(From 응답하라 1994),First Love(From 응답하라 1994),44287,S110968,써니사이드,MJ,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1020200T001,QZEKE1928765,Y,,,,,
+80,지니뮤직,대중음악,A1020834,"우리가 사랑한 그 노래, 새가수 Episode 1","The song we loved, a new singer Episode 1",A1020834T003,영일만 친구,Yeongil Bay friend,44393,S118991,오현우,Oh Hyeonu,"L20220888,L20221260,L20221261","정호뮤직,주식회사 금길,주식회사 애플뮤직",A1020834T003,QZNCB2161948,Y,,,,,
+80,지니뮤직,대중음악,A1020834,"우리가 사랑한 그 노래, 새가수 Episode 1","The song we loved, a new singer Episode 1",A1020834T006,소녀와 가로등,Girl and the lamppost,44393,S114328,이나영,Lee Nayeong,"L20220888,L20221260,L20221261","정호뮤직,주식회사 금길,주식회사 애플뮤직",A1020834T006,QZNCB2161951,Y,,,,,
+80,지니뮤직,대중음악,A1020858,015B Anthology Part.3,"015B Anthology, Pt.3",A1020858T001,세월의 흔적 다 버리고,Let go of all the trace of time,44378,"S123984,S121518","공일오비,오왠","015B,O.WHEN",L20221456,주식회사 엠티엠홀딩스,A1020858T001,KRA341759119,Y,,,,,
+80,지니뮤직,대중음악,A1021031,"우리가 사랑한 그 노래, 새가수 Episode 2","The song we loved, a new singer Episode 2",A1021031T002,지상에서 영원으로,From Supremacy To Eternity,44400,S114467,유다은,Ryu Da Eun,"L20220888,L20221260,L20221261","정호뮤직,주식회사 금길,주식회사 애플뮤직",A1021031T002,QZNCB2164868,Y,,,,,
+80,지니뮤직,대중음악,A1021148,1st Single Album [WHAT'S GOIN' ON],1st Single Album [WHAT'S GOIN' ON],A1021148T001,WHAT'S GOIN' ON,WHAT'S GOIN' ON,44445,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1021148T001,QZNCB2169970,Y,,,,,
+80,지니뮤직,대중음악,A1021517,사랑했던 우리가 어떻게 친구가 되니,How can we become friends who we loved,A1021517T001,사랑했던 우리가 어떻게 친구가 되니,How can we become friends who we loved,44492,S111380,송하예,Ha Yea Song,L20221456,주식회사 엠티엠홀딩스,A1021517T001,QZNCB2173397,Y,,,,,
+80,지니뮤직,뉴에이지,A1035467,베베팝의 포근한 동요 자장가,Lullaby Piano Music For Babies,A1035467T001,브람스 자장가,Brahms Lullaby,44519,S119217,베베팝,Bebepop,L20220666,플라이트래빗,A1035467T001,QZNCB2173857,Y,,,,,
+80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T001,LOVE ME LIKE,LOVE ME LIKE,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T001,QZNCB2174414,Y,,,,,
+80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T002,ACTION,ACTION,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T002,QZNCB2174415,Y,,,,,
+80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T004,LIAR,LIAR,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T004,QZNCB2174417,Y,,,,,
+80,지니뮤직,대중음악,A1035705,LOVE ME LIKE,LOVE ME LIKE,A1035705T005,전화해요 (PLEASE),PLEASE,44566,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1035705T005,QZNCB2174418,Y,,,,,
+80,지니뮤직,뉴에이지,A1035986,베베팝의 베이비 오르골자장가,Bebepop's Baby Orgel Lullaby,A1035986T008,섬집아기,Island Baby,44575,S119217,베베팝,Bebepop,L20220666,플라이트래빗,A1035986T008,QZNCB2177898,Y,,,,,
+80,지니뮤직,대중음악,A1036666,별이될게,Tears in heaven,A1036666T001,별이될게,Tears in heaven,44611,S118276,제이세라,J-Cera,L20221456,주식회사 엠티엠홀딩스,A1036666T001,QZNCB2182604,Y,,,,,
+80,지니뮤직,어린이,A1036917,다나랜드 인기동요 1,DANALAND BEST KIDS SONGS 1,A1036917T003,곰 세 마리,Three Bears,44642,S122632,다나랜드,DANALAND,L20221288,다날엔터_IP 자체제작,A1036917T003,QZNCB2183032,Y,,,,,
+80,지니뮤직,대중음악,A1036984,Phoenix Rising,Phoenix Rising,A1036984T002,혼자하는 사랑,Love alone,44713,S123647,Ann One,Ann One,L20221342,손성원,A1036984T002,QZNCB2184460,Y,,,,,
+80,지니뮤직,어린이,A1037118,다나랜드 인기동요 2,DANALAND BEST KIDS SONGS 2,A1037118T001,산토끼,Jack Rabbit,44663,S122632,다나랜드,DANALAND,L20221288,다날엔터_IP 자체제작,A1037118T001,QZNCB2183396,Y,,,,,
+80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T001,VENUS(연결),VENUS,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T001,QZNCB2184657,Y,,,,,
+80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T002,PLAY DUMB,PLAY DUMB,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T002,QZNCB2184658,Y,,,,,
+80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T010,DRY FLOWER,DRY FLOWER,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T010,QZNCB2184666,Y,,,,,
+80,지니뮤직,대중음악,A1037744,樂서(Story Written in Music),Story Written in Music,A1037744T012,간직해줘(LOVE),LOVE,44727,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1037744T012,QZNCB2184668,Y,,,,,
+80,지니뮤직,대중음악,A1037810,F4 스페셜 에디션,F4 Special Edition,A1037810T006,가슴이 어떻게 됐나봐,Something happened to my heart,44682,S123182,에이앤티,A&T,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1037810T006,KRA490900947,Y,,,,,
+80,지니뮤직,대중음악,A1037810,F4 스페셜 에디션,F4 Special Edition,A1037810T007,나쁜 마음을 먹게해 (Ballad Ver.),Make me feel bad (Ballad Ver.),44682,S123179,티맥스,T-MAX,"L20231652,L20252417","아이원 주식회사 (I ONE),주식회사 플랜비뮤직",A1037810T007,KRA490900948,Y,,,,,
+80,지니뮤직,대중음악,A1044138,1st Mini Album 'VAMOS',1st Mini Album 'VAMOS',A1044138T002,VAMOS,VAMOS,44743,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1044138T002,KRA382159092,Y,,,,,
+80,지니뮤직,대중음악,A1044138,1st Mini Album 'VAMOS',1st Mini Album 'VAMOS',A1044138T004,OMEGA X,OMEGA X,44743,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1044138T004,KRA382159094,Y,,,,,
+80,지니뮤직,OST,A1046539,모든 게 착각이었다 OST Part. 2,It Was All a Mistake OST Part. 2,A1046539T001,In The Novel,In The Novel,44938,S147330,민니 ((여자)아이들),MINNIE,"L20221246,L20221265,L20221288","다날엔터_IP 자체제작,다산북스,주식회사 에일뮤직",A1046539T001,QZNCB2185121,Y,,,,,
+80,지니뮤직,대중음악,A1053260,"광복 60주년 공연실황 (아리수) CD 1, 2",,A1053260T002,광복 60주년 공연실황 (아리수) CD 2,,43191.5,S106243,나훈아,Na Hoon-A,L20220920,예소리,A1053260T002,KRZ291801749,Y,,,,,
+80,지니뮤직,대중음악,A1060810,DNA 싱어 - 판타스틱 패밀리 Round 8,DNA Singer - Fantastic Family Round 8,A1060810T002,엄마가 딸에게,Mother to Daughter,44799.5,"S152169,S152168","강두,송한국","SONG YONG SIK,SONG HAN KUK",L20221247,주식회사 브릿지씨,A1060810T002,QZNCB2185463,Y,,,,,
+80,지니뮤직,대중음악,A1062393,Break Up,Break Up,A1062393T001,홀로 (feat. 김나영),홀로 (feat. 김나영),44805.5,S152574,정키 (정희웅),Jungkey,L20231514,주식회사 온앤온아이피스튜디오,A1062393T001,KRA341629916,Y,,,,,
+80,지니뮤직,대중음악,A1068570,MAMA,MAMA,A1068570T002,"MAMA (Feat. 구윤회, 한예슬, 신종욱, 김나영)","MAMA (Feat. 구윤회, 한예슬, 신종욱, 김나영)",44805.5,S152574,정키 (정희웅),Jungkey,L20231514,주식회사 온앤온아이피스튜디오,A1068570T002,KRA341300372,Y,,,,,
+80,지니뮤직,클래식,A1075463,Endless Love/仲良ピース(사이 좋게 평화),Endless Love/仲良ピース(사이 좋게 평화),A1075463T001,Endless Love,Endless Love,44836.5,S155836,Shouta Aoi,Shouta Aoi,L20221308,지누락엔터테인먼트,A1075463T001,JPKI02214052,Y,,,,,
+80,지니뮤직,대중음악,A1106359,너를 보는게 지친 하루에,Seeing you on a tough day,A1106359T001,너를 보는게 지친 하루에,Seeing you on a tough day,45004,S111380,송하예,Ha Yea Song,"L20220530,L20221436","더하기미디어,주식회사 디스튜디오",A1106359T001,QZNCB2194580,Y,,,,,
+80,지니뮤직,대중음악,A1107541,Dream,Dream,A1107541T001,Dream,Dream,45040.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1107541T001,QZNCB2198398,Y,,,,,
+80,지니뮤직,대중음악,A1110902,새벽 (SIX STORIES),DAWN (SIX STORIES),A1110902T001,삶,Life,45117.5,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1110902T001,QZNCB2149588,Y,,,,,
+80,지니뮤직,대중음악,A1110902,새벽 (SIX STORIES),DAWN (SIX STORIES),A1110902T006,기장갈매기,Gijang`s Seagull,45117.5,S106243,나훈아,Na Hoon-A,"L20220920,L20221323","다날엔터_예소리 수수료,예소리",A1110902T006,QZNCB2149593,Y,,,,,
+80,지니뮤직,대중음악,A1118342,Doppelganger,Doppelganger,A1118342T001,Doppelganger,Doppelganger,45176.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1118342T001,QGNCB2306798,Y,,,,,
+80,지니뮤직,대중음악,A1127447,사랑 참...,Because of love,A1127447T001,사랑 참...,Because of love,45235.75,S118276,제이세라,J-Cera,"L20220530,L20221288","다날엔터_IP 자체제작,더하기미디어",A1127447T001,QGNCB2309621,Y,,,,,
+80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T002,JUNK FOOD,JUNK FOOD,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T002,QGNCB2309628,Y,,,,,
+80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T003,Touch,Touch,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T003,QGNCB2309629,Y,,,,,
+80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T004,HEY!,HEY!,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T004,QGNCB2309630,Y,,,,,
+80,지니뮤직,대중음악,A1127555,iykyk,iykyk,A1127555T005,ISLAND,ISLAND,45237.75,S119450,OMEGA X,OMEGA X,L20231533,주식회사 아이피큐,A1127555T005,QGNCB2309631,Y,,,,,
+80,지니뮤직,대중음악,A1130714,내 사랑,My Love,A1130714T001,고맙습니다,Thank You,44845.5,S114745,유해준,Yoo Hae Joon,L20220673,청엔터테인먼트,A1130714T001,KSB012301019,Y,,,,,
+80,지니뮤직,일렉트로니카,A1130927,Habanera,Habanera,A1130927T001,Habanera,Habanera,45280.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1130927T001,KSB012301087,Y,,,,,
+80,지니뮤직,대중음악,A1135021,잘자요 아가씨,잘자요 아가씨,A1135021T001,잘자요 아가씨 (Prod. 과나),잘자요 아가씨 (Prod. 과나),45351.5,"S189102,S189103","다나카,닛몰캐쉬","TANAKA,닛몰캐쉬",L20231642,UMAG,A1135021T001,KRF502400197,Y,,,,,
+80,지니뮤직,대중음악,A1135965,To Love Somebody,To Love Somebody,A1135965T001,오늘은 가지마,오늘은 가지마,40928.5,S154698,임세준,Im Se Jun,L20241925,레이벡스,A1135965T001,QZEKE1885959,Y,,,,,
+80,지니뮤직,대중음악,A1137313,니가 보고싶을 때,니가 보고싶을 때,A1137313T001,니가 보고싶을 때,니가 보고싶을 때,45413.5,S108472,109,109,L20241925,레이벡스,A1137313T001,KRA381800293,Y,,,,,
+80,지니뮤직,대중음악,A1138269,Rob Roy,Rob Roy,A1138269T001,Rob Roy,Rob Roy,45429.5,S189996,Beatpella House,Beatpella House,L20221265,주식회사 에일뮤직,A1138269T001,KSB012313024,Y,,,,,
+80,지니뮤직,OST,A1138560,구가의 서 (Original Soundtrack) PART6,Gu Family Book (Original Soundtrack) PART6,A1138560T001,잘있나요,Best Wishes to you,45439.5,S190097,더원,The One,L20231652,주식회사 플랜비뮤직,A1138560T001,QZEKE1808101,Y,,,,,
+80,지니뮤직,OST,A1138561,구가의 서 (OST) PART7,Gu Family Book OST PART7,A1138561T001,너 하나야,Only you,45439.5,S111077,포맨,4MEN,L20231652,주식회사 플랜비뮤직,A1138561T001,QZEKE1808103,Y,,,,,
+80,지니뮤직,OST,A1138640,역적 : 백성을 훔친 도적 (OST) Part.5,Rebel: Thief Who Stole the People OST Part.5,A1138640T001,상사화,Magic Lily,45439.5,S111068,안예은,안예은,L20231652,주식회사 플랜비뮤직,A1138640T001,KRE621700005,Y,,,,,
+80,지니뮤직,대중음악,A1140361,Let's Play The Game,Let's Play The Game,A1140361T005,Plastic Love (Inst.),Plastic Love (Inst.),45502.5,S191307,시계태엽오렌지,A Clockwork Orange,L20241862,스튜디오사인,A1140361T005,KSB012318573,Y,,,,,
+80,지니뮤직,뉴에이지,A1140530,공부할 때 듣기 좋은 힐링음악 피아노 4집,공부할 때 듣기 좋은 힐링음악 피아노 4집,A1140530T002,Jesus Saves,Jesus Saves,45483.5,S184664,Julia,Julia,L20221299,RIAK,A1140530T002,KRRAR2417100,Y,,,,,
+80,지니뮤직,대중음악,A1143934,잘 지내,Take care,A1143934T001,잘 지내,Take care,45505,S193493,youz,youz,L20231642,UMAG,A1143934T001,KRMM02311095,Y,,,,,
+80,지니뮤직,일렉트로니카,A1145783,Bounce (Real Master JINRO),Bounce (Real Master JINRO),A1145783T001,Bounce,Bounce,45527.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1145783T001,KSB012321259,Y,,,,,
+80,지니뮤직,대중음악,A1146130,Candy Thief,Candy Thief,A1146130T001,Candy Thief,Candy Thief,45534.5,S189996,Beatpella House,Beatpella House,L20221265,주식회사 에일뮤직,A1146130T001,KSB012321457,Y,,,,,
+80,지니뮤직,대중음악,A1147034,발걸음,,A1147034T004,보고싶다,,45559.5,S197290,쭌92,JJUNE,L20231514,주식회사 온앤온아이피스튜디오,A1147034T004,KSB012323160,Y,,,,,
+80,지니뮤직,대중음악,A1147192,DOF ep #still,DOF ep #still,A1147192T001,Bring it (With Maya),Bring it (With Maya),45569.5,S189037,DOF,DOF,L20221436,주식회사 디스튜디오,A1147192T001,KSB012324008,Y,,,,,
+80,지니뮤직,일렉트로니카,A1147984,Triviallusion,Triviallusion,A1147984T001,Triviallusion,Triviallusion,45593.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1147984T001,KSB012325436,Y,,,,,
+80,지니뮤직,일렉트로니카,A1151965,Dopamine,Dopamine,A1151965T001,Dopamine,Dopamine,45701.5,S122437,윙 (WING),WING,L20221265,주식회사 에일뮤직,A1151965T001,KSB012333207,Y,,,,,
+80,지니뮤직,대중음악,A1156004,잘 지내고 있는지 궁금해,,A1156004T001,잘 지내고 있는지 궁금해,,45748,S116420,V.O.S,V.O.S,L20231652,주식회사 플랜비뮤직,A1156004T001,KRA382000264,Y,,,,,
+80,지니뮤직,대중음악,A1156005,다시 만날까 봐,,A1156005T001,다시 만날까 봐,,45748,S116420,V.O.S,V.O.S,L20231652,주식회사 플랜비뮤직,A1156005T001,KRA381904097,Y,,,,,
+80,지니뮤직,대중음악,A1157521,I Like It Hot,I Like It Hot,A1157521T001,I Like It Hot,I Like It Hot,45798.75,S136096,블랙스완,BLACKSWAN,L20220433,DR뮤직,A1157521T001,KSB012338348,Y,,,,,
+80,지니뮤직,대중음악,A1160322,SUMMER SPECIAL SINGLE [LOVE HIGH],SUMMER SPECIAL SINGLE [LOVE HIGH],A1160322T001,LOVE HIGH,LOVE HIGH,45880.75,S199183,LOVEONE(러브원),LOVEONE,L20241989,주식회사 초록별 엔터테인먼트,A1160322T001,KSB012342297,Y,,,,,
+80,지니뮤직,OST,A1160595,여행을 대신해 드립니다 OST Part.6,My lovely journey OST Part.6,A1160595T001,문을 나선 순간 (Vocal. 소하),Out the door (Vocal. SOHA),45886.5,S214545,SAY MY NAME (세이마이네임),SAY MY NAME,L20231694,주식회사 빅오션이엔엠,A1160595T001,KSB012342729,Y,,,,,
+80,지니뮤직,대중음악,A1160874,RE:AL iii,RE:AL iii,A1160874T002,Forbidden Midnight (Real ver.),Forbidden Midnight (Real ver.),45898.75,S185321,iii(아이아이아이),iii,L20231694,주식회사 빅오션이엔엠,A1160874T002,KSB012343097,Y,,,,,
+80,지니뮤직,OST,A1163552,화려한 날들 OST Part.5,Our Golden Days OST Part.5,A1163552T001,화려한 날들,Our golden days,45907.75,S121510,황인욱,Hwang In Wook,L20221060,주식회사 로이,A1163552T001,KSB012343505,Y,,,,,
+80,지니뮤직,OST,A1163941,화려한 날들 OST Part.6,Our Golden Days OST Part.6,A1163941T001,그대인가 봐,May You,45914.75,S135634,조현아 (어반자카파),Jo Hyun Ah,L20221060,주식회사 로이,A1163941T001,KSB012343795,Y,,,,,
+80,지니뮤직,대중음악,A1164666,Humanity's Emotions Vol.2,Humanity's Emotions Vol.2,A1164666T003,A Waltz of Sunshine,A Waltz of Sunshine,45947.5,S196987,우리들의 씬스틸러,Scene Stealer of Us,L20221435,주식회사 비크엔터테인먼트,A1164666T003,KRMIM2550647,Y,,,,,
+80,지니뮤직,대중음악,A1164666,Humanity's Emotions Vol.2,Humanity's Emotions Vol.2,A1164666T009,What Remains,What Remains,45947.5,S196987,우리들의 씬스틸러,Scene Stealer of Us,L20221435,주식회사 비크엔터테인먼트,A1164666T009,KRMIM2550653,Y,,,,,
+80,지니뮤직,대중음악,A1167638,EMOTIONS,EMOTIONS,A1167638T001,EMOTIONS,EMOTIONS,2026.2.27 18:00,"S218779,S218777",웬디(WENDY)AlecBenjamin,WENDYAlecBenjamin,L20220211,임시권리사 재매칭 필요,A1167638T001,KSB012349596,Y,"0FRUZvZNPzM3YJMABJxf2K,5IH6FPUwQTxPSXurCrcIov","840523045,632781795","780915,790155",,20260225
