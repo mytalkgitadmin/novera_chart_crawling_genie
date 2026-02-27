@@ -344,19 +344,125 @@ def _build_search_url(query: str) -> str:
     return f"{base}?{qs}"
 
 
-def _extract_song_id(html: str) -> Optional[str]:
-    """GENIE 검색 결과 HTML에서 첫 번째 곡의 song_id를 추출한다."""
+def _extract_all_results(html: str) -> List[Dict[str, str]]:
+    """GENIE 검색 결과 HTML에서 곡 정보 목록을 추출한다.
+    
+    Returns:
+        List of dicts with keys: song_id, song_name, artist_name
+    """
+    import re
+
     soup = BeautifulSoup(html, "html.parser")
-    # 일반적으로 곡 리스트에서 detail/songInfo?xgnm=XXXX 형태의 링크를 사용
+    results = []
+
+    # 곡 리스트 아이템을 탐색 (각 <li> 또는 <tr> 안의 링크)
+    # fnViewSongInfo('XXXXXXX') 패턴을 가진 모든 a 태그 수집
     for a in soup.find_all("a"):
         onclick = a.get("onclick") or ""
-        if "fnViewSongInfo" in onclick:
-            import re
+        if "fnViewSongInfo" not in onclick:
+            continue
+        m = re.search(r"fnViewSongInfo\('(\d+)'\)", onclick)
+        if not m:
+            continue
+        song_id = m.group(1)
 
-            m = re.search(r"fnViewSongInfo\('(\d+)'\)", onclick)
-            if m:
-                return m.group(1)
+        # 해당 a 태그의 부모 영역에서 곡명 / 아티스트명 추출 시도
+        # 지니뮤직은 <li class="list-wrap"> 구조를 많이 사용
+        li = a.find_parent("li")
+        tr = a.find_parent("tr")
+        container = li or tr or a.parent
+
+        song_name_found = ""
+        artist_name_found = ""
+
+        if container:
+            # 곡명: class에 'song-name' 또는 'title' 포함 요소
+            for cls in ["song-name", "title-name", "title"]:
+                el = container.find(class_=lambda c, _cls=cls: c and _cls in c)
+                if el:
+                    song_name_found = el.get_text(strip=True)
+                    break
+
+            # 아티스트명: class에 'artist' 포함 요소
+            artist_el = container.find(class_=lambda c: c and "artist" in c)
+            if artist_el:
+                artist_name_found = artist_el.get_text(strip=True)
+
+        results.append({
+            "song_id": song_id,
+            "song_name": song_name_found,
+            "artist_name": artist_name_found,
+        })
+
+    return results
+
+
+def _normalize_for_match(text: str) -> str:
+    """매칭 비교를 위해 텍스트를 소문자/공백 정규화한다."""
+    import re
+    text = text.lower()
+    # 특수문자, 괄호 등 제거
+    text = re.sub(r"[^a-z0-9가-힣]", "", text)
+    return text
+
+
+def _find_best_match(
+    html: str,
+    song_name: str,
+    artist_name: str,
+    fallback_first: bool = False,
+) -> Optional[str]:
+    """GENIE 검색 결과 HTML에서 곡명/아티스트명이 가장 잘 매칭되는 song_id를 반환한다.
+
+    매칭 전략:
+    1) 곡명 AND 아티스트명 모두 포함
+    2) 곡명만 포함
+    3) fallback_first=True 이면 첫 번째 결과 반환 (아무것도 없으면 None)
+
+    Args:
+        html: GENIE 검색 결과 HTML
+        song_name: 원본 곡명 (비교 기준)
+        artist_name: 원본 아티스트명 (비교 기준)
+        fallback_first: True 이면 매칭 실패 시 첫 번째 결과 반환
+
+    Returns:
+        song_id 문자열 또는 None
+    """
+    results = _extract_all_results(html)
+    if not results:
+        return None
+
+    norm_song = _normalize_for_match(song_name)
+    # 아티스트명이 여러 명 붙어있는 경우 첫 번째만 분리해서 비교
+    first_artist = artist_name.split(",")[0].strip() if "," in artist_name else artist_name
+    norm_artist = _normalize_for_match(first_artist)
+
+    # 1순위: 곡명 + 아티스트명 동시 매칭
+    for r in results:
+        r_song = _normalize_for_match(r["song_name"])
+        r_artist = _normalize_for_match(r["artist_name"])
+        if norm_song and r_song and norm_song in r_song or r_song in norm_song:
+            if not norm_artist or (norm_artist in r_artist or r_artist in norm_artist):
+                return r["song_id"]
+
+    # 2순위: 곡명만 매칭 (아티스트 정보를 HTML에서 파싱 못 했을 경우 대비)
+    if norm_song:
+        for r in results:
+            r_song = _normalize_for_match(r["song_name"])
+            if r_song and (norm_song in r_song or r_song in norm_song):
+                return r["song_id"]
+
+    # 3순위: fallback — 첫 번째 결과 반환 (정확도 낮음)
+    if fallback_first and results:
+        return results[0]["song_id"]
+
     return None
+
+
+def _extract_song_id(html: str) -> Optional[str]:
+    """GENIE 검색 결과 HTML에서 첫 번째 곡의 song_id를 추출한다 (하위 호환용)."""
+    results = _extract_all_results(html)
+    return results[0]["song_id"] if results else None
 
 
 def _write_song_ids_csv(platform: str, song_data_list: List[Dict[str, str]], resource_dir: str) -> List[Dict[str, str]]:
@@ -510,7 +616,7 @@ def generate_song_ids(config_path: str) -> None:
                         search_url = _build_search_url(query1)
                         logger.info(f"[GENIE] [1단계] 검색: '{query1}'")
                         html = fetcher.fetch_html(search_url)
-                        song_id = _extract_song_id(html)
+                        song_id = _find_best_match(html, song_name, artist_name)
                         if song_id:
                             logger.info(f"[GENIE] ✅ [1단계] 성공 - song_id={song_id}")
                     except Exception as e:
@@ -528,7 +634,7 @@ def generate_song_ids(config_path: str) -> None:
                             search_url = _build_search_url(query2)
                             logger.info(f"[GENIE] [2단계] 전처리 검색: '{query2}'")
                             html = fetcher.fetch_html(search_url)
-                            song_id = _extract_song_id(html)
+                            song_id = _find_best_match(html, song_name, preprocessed_artist)
                             if song_id:
                                 logger.info(f"[GENIE] ✅ [2단계] 성공 - song_id={song_id}")
                         except Exception as e:
@@ -545,7 +651,7 @@ def generate_song_ids(config_path: str) -> None:
                             search_url = _build_search_url(query3)
                             logger.info(f"[GENIE] [3단계] 앨범명 제외 검색: '{query3}'")
                             html = fetcher.fetch_html(search_url)
-                            song_id = _extract_song_id(html)
+                            song_id = _find_best_match(html, song_name, preprocessed_artist)
                             if song_id:
                                 logger.info(f"[GENIE] ✅ [3단계] 성공 - song_id={song_id}")
                         except Exception as e:
@@ -563,7 +669,7 @@ def generate_song_ids(config_path: str) -> None:
                             search_url = _build_search_url(query4)
                             logger.info(f"[GENIE] [4단계] 특수기호 제거 검색: '{query4}'")
                             html = fetcher.fetch_html(search_url)
-                            song_id = _extract_song_id(html)
+                            song_id = _find_best_match(html, song_name_cleaned, artist_name_cleaned)
                             if song_id:
                                 logger.info(f"[GENIE] ✅ [4단계] 성공 - song_id={song_id}")
                         except Exception as e:
@@ -581,47 +687,14 @@ def generate_song_ids(config_path: str) -> None:
                             search_url = _build_search_url(query5)
                             logger.info(f"[GENIE] [5단계] 괄호 제거 검색: '{query5}'")
                             html = fetcher.fetch_html(search_url)
-                            song_id = _extract_song_id(html)
+                            song_id = _find_best_match(html, song_name_aggressive, artist_name_aggressive)
                             if song_id:
                                 logger.info(f"[GENIE] ✅ [5단계] 성공 - song_id={song_id}")
                         except Exception as e:
                             logger.error(f"[GENIE] [5단계] 검색 중 오류: {e}")
 
-                # 6단계: 곡명만으로 검색 (아티스트 제외)
                 if not song_id:
-                    song_name_aggressive = _preprocess_song_name(song_name, aggressive=True)
-                    query6 = _build_search_query(song_name_aggressive, "", "")
-
-                    if query6 and query6 not in tried_queries:
-                        tried_queries.append(query6)
-                        try:
-                            search_url = _build_search_url(query6)
-                            logger.info(f"[GENIE] [6단계] 곡명만 검색: '{query6}'")
-                            html = fetcher.fetch_html(search_url)
-                            song_id = _extract_song_id(html)
-                            if song_id:
-                                logger.info(f"[GENIE] ✅ [6단계] 성공 - song_id={song_id}")
-                        except Exception as e:
-                            logger.error(f"[GENIE] [6단계] 검색 중 오류: {e}")
-
-                # 7단계: 특수기호 제거 + 곡명만
-                if not song_id:
-                    song_name_cleaned = _remove_all_special_chars(song_name)
-                    query7 = _build_search_query(song_name_cleaned, "", "")
-
-                    if query7 and query7 not in tried_queries:
-                        tried_queries.append(query7)
-                        try:
-                            search_url = _build_search_url(query7)
-                            logger.info(f"[GENIE] [7단계] 특수기호 제거 + 곡명만: '{query7}'")
-                            html = fetcher.fetch_html(search_url)
-                            song_id = _extract_song_id(html)
-                            if song_id:
-                                logger.info(f"[GENIE] ✅ [7단계] 성공 - song_id={song_id}")
-                            else:
-                                logger.warning(f"[GENIE] ❌ 모든 단계 실패 (7단계까지): {song_name} - {artist_name}")
-                        except Exception as e:
-                            logger.error(f"[GENIE] [7단계] 검색 중 오류: {e}")
+                    logger.warning(f"[GENIE] ❌ 모든 단계 실패 (5단계까지): {song_name} - {artist_name}")
                 
                 # song_id를 찾은 경우에만 리스트에 추가
                 if song_id:
